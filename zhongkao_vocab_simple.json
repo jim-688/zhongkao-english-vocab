@@ -409,7 +409,7 @@
  },
  {
   "word": "children",
-  "phonetic": "英[ˈtʃɪldrən] 美[ˈtʃɪldrən]",
+  "phonetic": "ˈtʃɪldrən",
   "pos": "n",
   "meaning": "n. 孩子们（child的复数）"
  },
@@ -559,7 +559,7 @@
  },
  {
   "word": "thanks",
-  "phonetic": "英[θæŋks] 美[θæŋks]",
+  "phonetic": "θæŋks",
   "pos": "n",
   "meaning": "n. 谢谢（只用复数）；int. 谢谢"
  },
@@ -625,7 +625,7 @@
  },
  {
   "word": "exactly",
-  "phonetic": "英[ɪɡˈzæktli] 美[ɪɡˈzæktli]",
+  "phonetic": "ɪɡˈzæktli",
   "pos": "adv",
   "meaning": "adv. 恰好地"
  },
@@ -811,7 +811,7 @@
  },
  {
   "word": "lost",
-  "phonetic": "英[lɒst] 美[lɔːst]",
+  "phonetic": "lɒst lɔːst",
   "pos": "adj",
   "meaning": "adj. 失去的"
  },
@@ -1051,7 +1051,7 @@
  },
  {
   "word": "different",
-  "phonetic": "英[ˈdɪfrənt] 美[ˈdɪfrənt]",
+  "phonetic": "ˈdɪfrənt",
   "pos": "adj",
   "meaning": "adj. 不同的"
  },
@@ -1387,7 +1387,7 @@
  },
  {
   "word": "bye",
-  "phonetic": "英[baɪ] 美[baɪ]",
+  "phonetic": "baɪ",
   "pos": "n",
   "meaning": "n. 轮空；int. 再见；adj. 次要的"
  },
@@ -2065,7 +2065,7 @@
  },
  {
   "word": "Miss",
-  "phonetic": "英[mɪs] 美[mɪs]",
+  "phonetic": "mɪs",
   "pos": "n",
   "meaning": "n. 女士，小姐，年轻未婚女子；vt. 错过，想念，缺（勤）"
  },
@@ -2245,7 +2245,7 @@
  },
  {
   "word": "moving",
-  "phonetic": "英[ˈmuːvɪŋ] 美[ˈmuːvɪŋ]",
+  "phonetic": "ˈmuːvɪŋ",
   "pos": "adj",
   "meaning": "adj. 移动的"
  },
@@ -3013,7 +3013,7 @@
  },
  {
   "word": "photo",
-  "phonetic": "英[ˈfəʊtəʊ] 美[ˈfoʊtoʊ]",
+  "phonetic": "ˈfəʊtəʊ ˈfoʊtoʊ",
   "pos": "n",
   "meaning": "n. 照片"
  },
@@ -3115,7 +3115,7 @@
  },
  {
   "word": "England",
-  "phonetic": "英[ˈɪŋɡlənd] 美[ˈɪŋɡlənd]",
+  "phonetic": "ˈɪŋɡlənd",
   "pos": "n",
   "meaning": "n. 英格兰"
  },
@@ -3337,7 +3337,7 @@
  },
  {
   "word": "German",
-  "phonetic": "英[ˈdʒɜːmən] 美[ˈdʒɜːrmən]",
+  "phonetic": "ˈdʒɜːmən ˈdʒɜːrmən",
   "pos": "n",
   "meaning": "n. 德语；adj. 德国的"
  },
@@ -3541,7 +3541,7 @@
  },
  {
   "word": "Chinese",
-  "phonetic": "英[ˌtʃaɪˈniːz] 美[ˌtʃaɪˈniːz]",
+  "phonetic": "ˌtʃaɪˈniːz",
   "pos": "n",
   "meaning": "n. 中文，汉语；adj. 中国的，中国人的"
  },
@@ -3571,7 +3571,7 @@
  },
  {
   "word": "earlier",
-  "phonetic": "英[ˈɜ:lɪə(r)] 美[ˈɜːrliər]",
+  "phonetic": "ˈɜ:lɪə(r) ˈɜːrliər",
   "pos": "adj",
   "meaning": "adj. 早的；adv. 早地"
  },
@@ -3805,7 +3805,7 @@
  },
  {
   "word": "grandpa",
-  "phonetic": "英[ˈɡrænpɑː] 美[ˈɡrænpɑː]",
+  "phonetic": "ˈɡrænpɑː",
   "pos": "n",
   "meaning": "n. 爷爷"
  },
@@ -3853,7 +3853,7 @@
  },
  {
   "word": "excited",
-  "phonetic": "英[ɪkˈsaɪtɪd] 美[ɪkˈsaɪtɪd]",
+  "phonetic": "ɪkˈsaɪtɪd",
   "pos": "",
   "meaning": "adj. 兴奋的"
  },
@@ -3937,7 +3937,7 @@
  },
  {
   "word": "turning",
-  "phonetic": "英[ˈtɜːnɪŋ] 美[ˈtɜːrnɪŋ]",
+  "phonetic": "ˈtɜːnɪŋ ˈtɜːrnɪŋ",
   "pos": "n",
   "meaning": "n. 转向"
  },
@@ -4057,7 +4057,7 @@
  },
  {
   "word": "slowly",
-  "phonetic": "英[ˈsləʊli] 美[ˈsloʊli]",
+  "phonetic": "ˈsləʊli ˈsloʊli",
   "pos": "adv",
   "meaning": "adv. 缓慢地，慢慢地"
  },
@@ -4075,7 +4075,7 @@
  },
  {
   "word": "Russian",
-  "phonetic": "英[ˈrʌʃ(ə)n] 美[ˈrʌʃ(ə)n]",
+  "phonetic": "ˈrʌʃ(ə)n",
   "pos": "n",
   "meaning": "n. 俄语；adj. 俄国的"
  },
@@ -4369,7 +4369,7 @@
  },
  {
   "word": "English",
-  "phonetic": "英[ˈɪŋɡlɪʃ] 美[ˈɪŋɡlɪʃ]",
+  "phonetic": "ˈɪŋɡlɪʃ",
   "pos": "n",
   "meaning": "n. 英语；adj. 英国人的；vt. 把…译成英语"
  },
@@ -4705,7 +4705,7 @@
  },
  {
   "word": "America",
-  "phonetic": "英[əˈmerɪkə] 美[əˈmerɪkə]",
+  "phonetic": "əˈmerɪkə",
   "pos": "n",
   "meaning": "n. 美洲（包括北美和南美洲）"
  },
@@ -4819,7 +4819,7 @@
  },
  {
   "word": "grandma",
-  "phonetic": "英[ˈɡrænmɑː] 美[ˈɡrænmɑː]",
+  "phonetic": "ˈɡrænmɑː",
   "pos": "n",
   "meaning": "n. 奶奶"
  },
@@ -4897,7 +4897,7 @@
  },
  {
   "word": "computer",
-  "phonetic": "英[kəmˈpjuːtə(r)] 美[kəmˈpjuːtər]",
+  "phonetic": "kəmˈpjuːtə(r) kəmˈpjuːtər",
   "pos": "n",
   "meaning": "n. 计算机"
  },
@@ -5263,7 +5263,7 @@
  },
  {
   "word": "British",
-  "phonetic": "英[ˈbrɪtɪʃ] 美[ˈbrɪtɪʃ]",
+  "phonetic": "ˈbrɪtɪʃ",
   "pos": "n",
   "meaning": "n. 英国人；adj. 英国的"
  },
@@ -5347,7 +5347,7 @@
  },
  {
   "word": "silly",
-  "phonetic": "英[ˈsɪli] 美[ˈsɪli]",
+  "phonetic": "ˈsɪli",
   "pos": "n",
   "meaning": "n. 傻瓜；adj. 愚蠢的"
  },
@@ -5479,7 +5479,7 @@
  },
  {
   "word": "France",
-  "phonetic": "英[frɑːns] 美[fræns]",
+  "phonetic": "frɑːns fræns",
   "pos": "n",
   "meaning": "n. 法国"
  },
@@ -5677,7 +5677,7 @@
  },
  {
   "word": "London",
-  "phonetic": "英[ˈlʌndən] 美[ˈlʌndən]",
+  "phonetic": "ˈlʌndən",
   "pos": "n",
   "meaning": "n. 伦敦"
  },
@@ -5713,7 +5713,7 @@
  },
  {
   "word": "French",
-  "phonetic": "英[frentʃ] 美[frentʃ]",
+  "phonetic": "frentʃ",
   "pos": "n",
   "meaning": "n. 法国人；adj. 法国的"
  },
@@ -5773,7 +5773,7 @@
  },
  {
   "word": "fantastic",
-  "phonetic": "英[fænˈtæstɪk] 美[fænˈtæstɪk]",
+  "phonetic": "fænˈtæstɪk",
   "pos": "n",
   "meaning": "n. 古怪的人；adj. 奇异的"
  },
@@ -5833,7 +5833,7 @@
  },
  {
   "word": "broken",
-  "phonetic": "英[ˈbrəʊkən] 美[ˈbroʊkən]",
+  "phonetic": "ˈbrəʊkən ˈbroʊkən",
   "pos": "",
   "meaning": "adj. 破碎的"
  },
@@ -5983,7 +5983,7 @@
  },
  {
   "word": "closed",
-  "phonetic": "英[kləʊzd] 美[kloʊzd]",
+  "phonetic": "kləʊzd kloʊzd",
   "pos": "",
   "meaning": "adj. 关着的"
  },
@@ -6073,7 +6073,7 @@
  },
  {
   "word": "heavily",
-  "phonetic": "英[ˈhevɪli] 美[ˈhevɪli]",
+  "phonetic": "ˈhevɪli",
   "pos": "adv",
   "meaning": "adv. 沉重地"
  },
@@ -6091,7 +6091,7 @@
  },
  {
   "word": "someday",
-  "phonetic": "英[ˈsʌmdeɪ] 美[ˈsʌmdeɪ]",
+  "phonetic": "ˈsʌmdeɪ",
   "pos": "adv",
   "meaning": "adv. 有一天，有朝一日"
  },
@@ -6103,7 +6103,7 @@
  },
  {
   "word": "Japanese",
-  "phonetic": "英[ˌdʒæpəˈniːz] 美[ˌdʒæpəˈniːz]",
+  "phonetic": "ˌdʒæpəˈniːz",
   "pos": "n",
   "meaning": "n. 日本人；adj. 日本（人）的"
  },
@@ -6199,7 +6199,7 @@
  },
  {
   "word": "Britain",
-  "phonetic": "英[ˈbrɪt(ə)n] 美[ˈbrɪt(ə)n]",
+  "phonetic": "ˈbrɪt(ə)n",
   "pos": "n",
   "meaning": "n. 英国"
  },
@@ -6649,13 +6649,13 @@
  },
  {
   "word": "Canada",
-  "phonetic": "英[ˈkænədə] 美[ˈkænədə]",
+  "phonetic": "ˈkænədə",
   "pos": "n",
   "meaning": "n. 加拿大（北美洲国家）"
  },
  {
   "word": "China",
-  "phonetic": "英[ˈtʃaɪnə] 美[ˈtʃaɪnə]",
+  "phonetic": "ˈtʃaɪnə",
   "pos": "n",
   "meaning": "n. 中国；adj. 中国的"
  },
@@ -6775,7 +6775,7 @@
  },
  {
   "word": "Scotland",
-  "phonetic": "英[ˈskɒtlənd] 美[ˈskɑːtlənd]",
+  "phonetic": "ˈskɒtlənd ˈskɑːtlənd",
   "pos": "n",
   "meaning": "n. 苏格兰"
  },
@@ -6817,7 +6817,7 @@
  },
  {
   "word": "India",
-  "phonetic": "英[ˈɪndiə] 美[ˈɪndiə]",
+  "phonetic": "ˈɪndiə",
   "pos": "n",
   "meaning": "n. 印度（南亚国家）"
  },
@@ -6829,25 +6829,25 @@
  },
  {
   "word": "ad",
-  "phonetic": "英[æd] 美[æd]",
+  "phonetic": "æd",
   "pos": "n",
   "meaning": "n. 公元"
  },
  {
   "word": "thanksgiving",
-  "phonetic": "英[ˌθæŋksˈɡɪvɪŋ] 美[ˌθæŋksˈɡɪvɪŋ]",
+  "phonetic": "ˌθæŋksˈɡɪvɪŋ",
   "pos": "n",
   "meaning": "n. 感恩"
  },
  {
   "word": "mummy",
-  "phonetic": "英[ˈmʌmi] 美[ˈmʌmi]",
+  "phonetic": "ˈmʌmi",
   "pos": "n",
   "meaning": "n. 妈妈"
  },
  {
   "word": "granny",
-  "phonetic": "英[ˈɡræni] 美[ˈɡræni]",
+  "phonetic": "ˈɡræni",
   "pos": "n",
   "meaning": "n. 奶奶"
  },
@@ -6955,7 +6955,7 @@
  },
  {
   "word": "coke",
-  "phonetic": "英[kəʊk] 美[koʊk]",
+  "phonetic": "kəʊk koʊk",
   "pos": "n",
   "meaning": "n. 可口可乐（等于Coca-Cola）"
  },
@@ -7039,7 +7039,7 @@
  },
  {
   "word": "Italian",
-  "phonetic": "英[ɪˈtæliən] 美[ɪˈtæliən]",
+  "phonetic": "ɪˈtæliən",
   "pos": "n",
   "meaning": "n. 意大利人；adj. 意大利的"
  },
@@ -7051,7 +7051,7 @@
  },
  {
   "word": "favourite",
-  "phonetic": "英[ˈfeɪvərɪt] 美[ˈfeɪvərɪt]",
+  "phonetic": "ˈfeɪvərɪt",
   "pos": "n",
   "meaning": "n. 特别喜爱的人（或物）；adj. 特别受喜爱的"
  },
@@ -7093,7 +7093,7 @@
  },
  {
   "word": "Tokyo",
-  "phonetic": "英[ˈtəʊkiəʊ] 美[ˈtoʊkioʊ]",
+  "phonetic": "ˈtəʊkiəʊ ˈtoʊkioʊ",
   "pos": "n",
   "meaning": "n. 东京（日本首都）"
  },
@@ -7213,7 +7213,7 @@
  },
  {
   "word": "unusual",
-  "phonetic": "英[ʌnˈjuːʒuəl] 美[ʌnˈjuːʒuəl]",
+  "phonetic": "ʌnˈjuːʒuəl",
   "pos": "adj",
   "meaning": "adj. 不寻常的"
  },
@@ -7249,7 +7249,7 @@
  },
  {
   "word": "Washington",
-  "phonetic": "英[ˈwɒʃɪŋtən] 美[ˈwɑːʃɪŋtən]",
+  "phonetic": "ˈwɒʃɪŋtən ˈwɑːʃɪŋtən",
   "pos": "n",
   "meaning": "n. 华盛顿（美国州名，美国城市名，美国第一任总统，姓氏）"
  },
@@ -7309,7 +7309,7 @@
  },
  {
   "word": "Indian",
-  "phonetic": "英[ˈɪndiən] 美[ˈɪndiən]",
+  "phonetic": "ˈɪndiən",
   "pos": "n",
   "meaning": "n. 印度人；adj. 印度的"
  },
@@ -7531,7 +7531,7 @@
  },
  {
   "word": "Africa",
-  "phonetic": "英[ˈæfrɪkə] 美[ˈæfrɪkə]",
+  "phonetic": "ˈæfrɪkə",
   "pos": "n",
   "meaning": "n. 非洲"
  },
@@ -7819,7 +7819,7 @@
  },
  {
   "word": "shark",
-  "phonetic": "英[ʃɑːk] 美[ʃɑːrk]",
+  "phonetic": "ʃɑːk ʃɑːrk",
   "pos": "n",
   "meaning": "n. 鲨鱼；vt. 敲诈；vi. 诈骗"
  },
@@ -7915,19 +7915,19 @@
  },
  {
   "word": "Moscow",
-  "phonetic": "英[ˈmɒskəʊ] 美[ˈmɑːskaʊ]",
+  "phonetic": "ˈmɒskəʊ ˈmɑːskaʊ",
   "pos": "n",
   "meaning": "n. 莫斯科（俄罗斯首都）"
  },
  {
   "word": "Berlin",
-  "phonetic": "英[bɜːˈlɪn] 美[bɜːrˈlɪn]",
+  "phonetic": "bɜːˈlɪn bɜːrˈlɪn",
   "pos": "n",
   "meaning": "n. 柏林"
  },
  {
   "word": "barn",
-  "phonetic": "英[bɑːn] 美[bɑːrn]",
+  "phonetic": "bɑːn bɑːrn",
   "pos": "n",
   "meaning": "n. 谷仓；vt. 把…贮存入仓"
  },
@@ -7975,7 +7975,7 @@
  },
  {
   "word": "lifetime",
-  "phonetic": "英[ˈlaɪftaɪm] 美[ˈlaɪftaɪm]",
+  "phonetic": "ˈlaɪftaɪm",
   "pos": "n",
   "meaning": "n. 一生；adj. 一生的"
  },
@@ -8107,7 +8107,7 @@
  },
  {
   "word": "anytime",
-  "phonetic": "英[ˈenɪtaɪm] 美[ˈeniˌtaɪm]",
+  "phonetic": "ˈenɪtaɪm ˈeniˌtaɪm",
   "pos": "adv",
   "meaning": "adv. 任何时候"
  },
@@ -8131,7 +8131,7 @@
  },
  {
   "word": "Sydney",
-  "phonetic": "英[ˈsɪdni] 美[ˈsɪdni]",
+  "phonetic": "ˈsɪdni",
   "pos": "n",
   "meaning": "n. 悉尼（澳大利亚港市）"
  },
@@ -8143,7 +8143,7 @@
  },
  {
   "word": "chips",
-  "phonetic": "英[tʃɪps] 美[tʃɪps]",
+  "phonetic": "tʃɪps",
   "pos": "n",
   "meaning": "n. [食品] 炸土豆条"
  },
@@ -8161,7 +8161,7 @@
  },
  {
   "word": "Japan",
-  "phonetic": "英[dʒəˈpæn] 美[dʒəˈpæn]",
+  "phonetic": "dʒəˈpæn",
   "pos": "n",
   "meaning": "n. 日本（东亚国家名）"
  },
@@ -8185,7 +8185,7 @@
  },
  {
   "word": "Rome",
-  "phonetic": "英[rəʊm] 美[roʊm]",
+  "phonetic": "rəʊm roʊm",
   "pos": "n",
   "meaning": "n. 罗马（意大利首都）"
  },
@@ -8335,19 +8335,19 @@
  },
  {
   "word": "directly",
-  "phonetic": "英[dəˈrektli] 美[dəˈrektli; daɪˈrektli]",
+  "phonetic": "dəˈrektli dəˈrektli; daɪˈrektli",
   "pos": "conj",
   "meaning": "conj. 一…就；adv. 直接地"
  },
  {
   "word": "yen",
-  "phonetic": "英[jen] 美[jen]",
+  "phonetic": "jen",
   "pos": "n",
   "meaning": "n. 日元（日本货币单位）；vi. 渴望"
  },
  {
   "word": "Germany",
-  "phonetic": "英[ˈdʒɜːməni] 美[ˈdʒɜːrməni]",
+  "phonetic": "ˈdʒɜːməni ˈdʒɜːrməni",
   "pos": "n",
   "meaning": "n. 德国"
  },
@@ -8389,7 +8389,7 @@
  },
  {
   "word": "gym",
-  "phonetic": "英[dʒɪm] 美[dʒɪm]",
+  "phonetic": "dʒɪm",
   "pos": "n",
   "meaning": "n. 健身房"
  },
@@ -8401,7 +8401,7 @@
  },
  {
   "word": "Boston",
-  "phonetic": "英[ˈbɒstən] 美[ˈbɔːstən; ˈbɑːstən]",
+  "phonetic": "ˈbɒstən ˈbɔːstən; ˈbɑːstən",
   "pos": "n",
   "meaning": "n. 波士顿（美国城市）"
  },
@@ -8419,7 +8419,7 @@
  },
  {
   "word": "doorbell",
-  "phonetic": "英[ˈdɔːbel] 美[ˈdɔːrbel]",
+  "phonetic": "ˈdɔːbel ˈdɔːrbel",
   "pos": "n",
   "meaning": "n. 门铃"
  },
@@ -8437,7 +8437,7 @@
  },
  {
   "word": "e-mail",
-  "phonetic": "英[ˈiː meɪl] 美[ˈiː meɪl]",
+  "phonetic": "ˈiː meɪl",
   "pos": "n",
   "meaning": "n. 电子邮件"
  },
@@ -8461,7 +8461,7 @@
  },
  {
   "word": "frightened",
-  "phonetic": "英[ˈfraɪt(ə)nd] 美[ˈfraɪt(ə)nd]",
+  "phonetic": "ˈfraɪt(ə)nd",
   "pos": "",
   "meaning": "adj. 害怕的"
  },
@@ -8509,7 +8509,7 @@
  },
  {
   "word": "quietly",
-  "phonetic": "英[ˈkwaɪətli] 美[ˈkwaɪətli]",
+  "phonetic": "ˈkwaɪətli",
   "pos": "adv",
   "meaning": "adv. 安静地"
  },
@@ -8539,7 +8539,7 @@
  },
  {
   "word": "bedroom",
-  "phonetic": "英[ˈbedruːm] 美[ˈbedruːm; ˈbedrʊm]",
+  "phonetic": "ˈbedruːm ˈbedruːm; ˈbedrʊm",
   "pos": "n",
   "meaning": "n. 卧室；adj. 两性关系的"
  },
@@ -8743,7 +8743,7 @@
  },
  {
   "word": "unlike",
-  "phonetic": "英[ˌʌnˈlaɪk] 美[ˌʌnˈlaɪk]",
+  "phonetic": "ˌʌnˈlaɪk",
   "pos": "prep",
   "meaning": "prep. 和…不同，不像；adj. 不同的，不相似的"
  },
@@ -8761,7 +8761,7 @@
  },
  {
   "word": "Italy",
-  "phonetic": "英[ˈɪtəli] 美[ˈɪtəli]",
+  "phonetic": "ˈɪtəli",
   "pos": "n",
   "meaning": "n. 意大利（欧洲南部国家）"
  },
@@ -8773,7 +8773,7 @@
  },
  {
   "word": "Australia",
-  "phonetic": "英[ɒˈstreɪliə] 美[ɔːˈstreɪliə]",
+  "phonetic": "ɒˈstreɪliə ɔːˈstreɪliə",
   "pos": "n",
   "meaning": "n. 澳大利亚，澳洲"
  },
@@ -8869,7 +8869,7 @@
  },
  {
   "word": "carefully",
-  "phonetic": "英[ˈkeəfəli] 美[ˈkerfəli]",
+  "phonetic": "ˈkeəfəli ˈkerfəli",
   "pos": "adv",
   "meaning": "adv. 小心地"
  },
@@ -8947,7 +8947,7 @@
  },
  {
   "word": "pleased",
-  "phonetic": "英[pliːzd] 美[pliːzd]",
+  "phonetic": "pliːzd",
   "pos": "adj",
   "meaning": "adj. 高兴的"
  },
@@ -8971,7 +8971,7 @@
  },
  {
   "word": "baker",
-  "phonetic": "英[ˈbeɪkə(r)] 美[ˈbeɪkər]",
+  "phonetic": "ˈbeɪkə(r) ˈbeɪkər",
   "pos": "n",
   "meaning": "n. 面包师"
  },
@@ -9001,7 +9001,7 @@
  },
  {
   "word": "mouth-to-mouth",
-  "phonetic": "美[maʊθ tu maʊθ]",
+  "phonetic": "maʊθ tu maʊθ",
   "pos": "adj",
   "meaning": "adj. 嘴对嘴的"
  },
@@ -9019,7 +9019,7 @@
  },
  {
   "word": "shepherd",
-  "phonetic": "英[ˈʃepəd] 美[ˈʃepərd]",
+  "phonetic": "ˈʃepəd ˈʃepərd",
   "pos": "n",
   "meaning": "n. 牧羊人；vt. 牧羊"
  },
@@ -9037,7 +9037,7 @@
  },
  {
   "word": "all the time",
-  "phonetic": "美[ɔːl ðə taɪm]",
+  "phonetic": "ɔːl ðə taɪm",
   "pos": "",
   "meaning": "n. a. 始终"
  },
@@ -9067,7 +9067,7 @@
  },
  {
   "word": "Sweden",
-  "phonetic": "英[ˈswiːd(ə)n] 美[ˈswiːd(ə)n]",
+  "phonetic": "ˈswiːd(ə)n",
   "pos": "n",
   "meaning": "n. 瑞典（欧洲国家）"
  },
@@ -9085,13 +9085,13 @@
  },
  {
   "word": "fragile",
-  "phonetic": "英[ˈfrædʒaɪl] 美[ˈfrædʒ(ə)l]",
+  "phonetic": "ˈfrædʒaɪl ˈfrædʒ(ə)l",
   "pos": "adj",
   "meaning": "adj. 脆的"
  },
  {
   "word": "modem",
-  "phonetic": "英[ˈməʊdem] 美[ˈmoʊdəm]",
+  "phonetic": "ˈməʊdem ˈmoʊdəm",
   "pos": "n",
   "meaning": "n. 调制解调器（等于modulator-demodulator）"
  },
@@ -9121,7 +9121,7 @@
  },
  {
   "word": "loudspeaker",
-  "phonetic": "英[ˌlaʊdˈspiːkə(r)] 美[ˌlaʊdˈspiːkər]",
+  "phonetic": "ˌlaʊdˈspiːkə(r) ˌlaʊdˈspiːkər",
   "pos": "n",
   "meaning": "n. 喇叭，扬声器"
  },
@@ -9169,7 +9169,7 @@
  },
  {
   "word": "parrot",
-  "phonetic": "英[ˈpærət] 美[ˈpærət]",
+  "phonetic": "ˈpærət",
   "pos": "n",
   "meaning": "n. 鹦鹉；vt. 机械地模仿"
  },
@@ -9187,13 +9187,13 @@
  },
  {
   "word": "wag",
-  "phonetic": "英[wæɡ] 美[wæɡ]",
+  "phonetic": "wæɡ",
   "pos": "n",
   "meaning": "n. 摇摆；vt. 摇摆；vi. 摆动"
  },
  {
   "word": "man-made",
-  "phonetic": "英[ˌmæn ˈmeɪd] 美[ˌmæn ˈmeɪd]",
+  "phonetic": "ˌmæn ˈmeɪd",
   "pos": "adj",
   "meaning": "adj. 人造的"
  },
@@ -9217,7 +9217,7 @@
  },
  {
   "word": "flu",
-  "phonetic": "英[fluː] 美[fluː]",
+  "phonetic": "fluː",
   "pos": "n",
   "meaning": "n. 流感"
  },
@@ -9241,7 +9241,7 @@
  },
  {
   "word": "at present",
-  "phonetic": "美[æt ˈpreznt; æt ˈprezənt]",
+  "phonetic": "æt ˈpreznt; æt ˈprezənt",
   "pos": "",
   "meaning": "n. a. 目前"
  },
@@ -9289,7 +9289,7 @@
  },
  {
   "word": "mooncake",
-  "phonetic": "英[ˈmu:nkeɪk] 美[ˈmuːnkeɪk]",
+  "phonetic": "ˈmu:nkeɪk ˈmuːnkeɪk",
   "pos": "n",
   "meaning": "n. 月饼"
  },
@@ -9307,7 +9307,7 @@
  },
  {
   "word": "above all",
-  "phonetic": "美[əˈbʌv ɔːl]",
+  "phonetic": "əˈbʌv ɔːl",
   "pos": "",
   "meaning": "n. a. 最主要的"
  },
@@ -9331,7 +9331,7 @@
  },
  {
   "word": "be about to",
-  "phonetic": "美[bi əˈbaʊt tu]",
+  "phonetic": "bi əˈbaʊt tu",
   "pos": "",
   "meaning": "n. a. 准备"
  },
@@ -9343,19 +9343,19 @@
  },
  {
   "word": "brightly",
-  "phonetic": "英[ˈbraɪtli] 美[ˈbraɪtli]",
+  "phonetic": "ˈbraɪtli",
   "pos": "adv",
   "meaning": "adv. 明亮地"
  },
  {
   "word": "dumpling",
-  "phonetic": "英[ˈdʌmplɪŋ] 美[ˈdʌmplɪŋ]",
+  "phonetic": "ˈdʌmplɪŋ",
   "pos": "n",
   "meaning": "n. 饺子，汤团"
  },
  {
   "word": "Frenchman",
-  "phonetic": "英[ˈfrentʃmən] 美[ˈfrentʃmən]",
+  "phonetic": "ˈfrentʃmən",
   "pos": "n",
   "meaning": "n. 法国人"
  },
@@ -9391,7 +9391,7 @@
  },
  {
   "word": "at last",
-  "phonetic": "美[æt læst]",
+  "phonetic": "æt læst",
   "pos": "",
   "meaning": "n. a. 终于"
  },
@@ -9409,19 +9409,19 @@
  },
  {
   "word": "luckily",
-  "phonetic": "英[ˈlʌkɪli] 美[ˈlʌkɪli]",
+  "phonetic": "ˈlʌkɪli",
   "pos": "adv",
   "meaning": "adv. 幸好，侥幸"
  },
  {
   "word": "showery",
-  "phonetic": "英[ˈʃaʊəri] 美[ˈʃaʊəri]",
+  "phonetic": "ˈʃaʊəri",
   "pos": "adj",
   "meaning": "adj. 阵雨的"
  },
  {
   "word": "workplace",
-  "phonetic": "英[ˈwɜːkpleɪs] 美[ˈwɜːrkpleɪs]",
+  "phonetic": "ˈwɜːkpleɪs ˈwɜːrkpleɪs",
   "pos": "n",
   "meaning": "n. 工作场所"
  },
@@ -9451,7 +9451,7 @@
  },
  {
   "word": "ridge",
-  "phonetic": "英[rɪdʒ] 美[rɪdʒ]",
+  "phonetic": "rɪdʒ",
   "pos": "n",
   "meaning": "n. 山脊；vt. 使成脊状；vi. 成脊状"
  },
@@ -9463,13 +9463,13 @@
  },
  {
   "word": "as well",
-  "phonetic": "英[æz wel] 美[æz wel]",
+  "phonetic": "æz wel",
   "pos": "",
   "meaning": "n. a. 也"
  },
  {
   "word": "handbag",
-  "phonetic": "英[ˈhændbæɡ] 美[ˈhændbæɡ]",
+  "phonetic": "ˈhændbæɡ",
   "pos": "n",
   "meaning": "n. 手提包"
  },
@@ -9487,13 +9487,13 @@
  },
  {
   "word": "frustrated",
-  "phonetic": "英[frʌˈstreɪtɪd] 美[ˈfrʌstreɪtɪd]",
+  "phonetic": "frʌˈstreɪtɪd ˈfrʌstreɪtɪd",
   "pos": "",
   "meaning": "adj. 失意的，挫败的"
  },
  {
   "word": "giraffe",
-  "phonetic": "英[dʒəˈrɑːf] 美[dʒəˈræf]",
+  "phonetic": "dʒəˈrɑːf dʒəˈræf",
   "pos": "n",
   "meaning": "n. 长颈鹿"
  },
@@ -9511,13 +9511,13 @@
  },
  {
   "word": "UK",
-  "phonetic": "英[ˌjuː ˈkeɪ] 美[ˌjuː ˈkeɪ]",
+  "phonetic": "ˌjuː ˈkeɪ",
   "pos": "n",
   "meaning": "n. 英国；abbr. 联合王国（United Kingdom）"
  },
  {
   "word": "striker",
-  "phonetic": "英[ˈstraɪkə(r)] 美[ˈstraɪkər]",
+  "phonetic": "ˈstraɪkə(r) ˈstraɪkər",
   "pos": "n",
   "meaning": "n. 罢工者"
  },
@@ -9529,7 +9529,7 @@
  },
  {
   "word": "playhouse",
-  "phonetic": "英[ˈpleɪhaʊs] 美[ˈpleɪhaʊs]",
+  "phonetic": "ˈpleɪhaʊs",
   "pos": "n",
   "meaning": "n. 剧场"
  },
@@ -9619,7 +9619,7 @@
  },
  {
   "word": "at least",
-  "phonetic": "美[æt liːst]",
+  "phonetic": "æt liːst",
   "pos": "",
   "meaning": "n. a. 至少"
  },
@@ -9673,7 +9673,7 @@
  },
  {
   "word": "minibus",
-  "phonetic": "英[ˈmɪnibʌs] 美[ˈmɪnibʌs]",
+  "phonetic": "ˈmɪnibʌs",
   "pos": "n",
   "meaning": "n. 面包车（等于microbus）；vi. 乘中客车"
  },
@@ -9715,13 +9715,13 @@
  },
  {
   "word": "disappearance",
-  "phonetic": "英[ˌdɪsəˈpɪərəns] 美[ˌdɪsəˈpɪrəns]",
+  "phonetic": "ˌdɪsəˈpɪərəns ˌdɪsəˈpɪrəns",
   "pos": "n",
   "meaning": "n. 消失"
  },
  {
   "word": "hike",
-  "phonetic": "英[haɪk] 美[haɪk]",
+  "phonetic": "haɪk",
   "pos": "n",
   "meaning": "n. 远足；vt. 提高；vi. 远足"
  },
@@ -9745,7 +9745,7 @@
  },
  {
   "word": "tryout",
-  "phonetic": "英[ˈtraɪaʊt] 美[ˈtraɪaʊt]",
+  "phonetic": "ˈtraɪaʊt",
   "pos": "n",
   "meaning": "n. 试验"
  },
@@ -9775,7 +9775,7 @@
  },
  {
   "word": "humorous",
-  "phonetic": "英[ˈhjuːmərəs] 美[ˈhjuːmərəs]",
+  "phonetic": "ˈhjuːmərəs",
   "pos": "adj",
   "meaning": "adj. 诙谐的，幽默的"
  },
@@ -9787,13 +9787,13 @@
  },
  {
   "word": "racket",
-  "phonetic": "英[ˈrækɪt] 美[ˈrækɪt]",
+  "phonetic": "ˈrækɪt",
   "pos": "n",
   "meaning": "n. 球拍；vt. 过着花天酒地的生活；vi. 过着花天酒地的生活"
  },
  {
   "word": "injection",
-  "phonetic": "英[ɪnˈdʒekʃ(ə)n] 美[ɪnˈdʒekʃ(ə)n]",
+  "phonetic": "ɪnˈdʒekʃ(ə)n",
   "pos": "n",
   "meaning": "n. 注射"
  },
@@ -9811,7 +9811,7 @@
  },
  {
   "word": "canoe",
-  "phonetic": "英[kəˈnuː] 美[kəˈnuː]",
+  "phonetic": "kəˈnuː",
   "pos": "n",
   "meaning": "n. 独木舟；vi. 乘独木舟；vt. 用独木舟运"
  },
@@ -9829,7 +9829,7 @@
  },
  {
   "word": "cleaner",
-  "phonetic": "英[ˈkliːnə(r)] 美[ˈkliːnər]",
+  "phonetic": "ˈkliːnə(r) ˈkliːnər",
   "pos": "n",
   "meaning": "n. [化工] 清洁剂"
  },
@@ -9853,19 +9853,19 @@
  },
  {
   "word": "washroom",
-  "phonetic": "英[ˈwɒʃruːm] 美[ˈwɑːʃruːm]",
+  "phonetic": "ˈwɒʃruːm ˈwɑːʃruːm",
   "pos": "n",
   "meaning": "n. 洗手间"
  },
  {
   "word": "all right",
-  "phonetic": "英[ˌɔːl ˈraɪt] 美[ɔːl raɪt]",
+  "phonetic": "ˌɔːl ˈraɪt ɔːl raɪt",
   "pos": "adj",
   "meaning": "adj. 可接受（的）；int. 是不是"
  },
  {
   "word": "slipper",
-  "phonetic": "英[ˈslɪpə(r)] 美[ˈslɪpər]",
+  "phonetic": "ˈslɪpə(r) ˈslɪpər",
   "pos": "n",
   "meaning": "n. 拖鞋；vt. 用拖鞋打"
  },
@@ -9889,13 +9889,13 @@
  },
  {
   "word": "at once",
-  "phonetic": "英[æt wʌns] 美[æt wʌns]",
+  "phonetic": "æt wʌns",
   "pos": "",
   "meaning": "n. a. 立刻"
  },
  {
   "word": "hard-working",
-  "phonetic": "英[ˌhɑːd ˈwɜːkɪŋ] 美[ˌhɑːrd ˈwɜːrkɪŋ]",
+  "phonetic": "ˌhɑːd ˈwɜːkɪŋ ˌhɑːrd ˈwɜːrkɪŋ",
   "pos": "adj",
   "meaning": "adj. 勤勉的"
  },
@@ -9907,25 +9907,25 @@
  },
  {
   "word": "toothbrush",
-  "phonetic": "英[ˈtuːθbrʌʃ] 美[ˈtuːθbrʌʃ]",
+  "phonetic": "ˈtuːθbrʌʃ",
   "pos": "n",
   "meaning": "n. 牙刷"
  },
  {
   "word": "agree to",
-  "phonetic": "美[əˈɡriː tu]",
+  "phonetic": "əˈɡriː tu",
   "pos": "",
   "meaning": "n. a. 承认(提议"
  },
  {
   "word": "eighteenth",
-  "phonetic": "英[ˌeɪˈtiːnθ] 美[ˌeɪˈtiːnθ]",
+  "phonetic": "ˌeɪˈtiːnθ",
   "pos": "num",
   "meaning": "n. um. 第十八；adj. 第十八的，第十八个的"
  },
  {
   "word": "at the same time",
-  "phonetic": "美[æt ðə seɪm taɪm]",
+  "phonetic": "æt ðə seɪm taɪm",
   "pos": "",
   "meaning": "n. a. 同时"
  },
@@ -9949,13 +9949,13 @@
  },
  {
   "word": "all the same",
-  "phonetic": "美[ɔːl ðə seɪm]",
+  "phonetic": "ɔːl ðə seɪm",
   "pos": "",
   "meaning": "n. a. 依然"
  },
  {
   "word": "secondhand",
-  "phonetic": "英[ˌsekəndˈhænd] 美[ˌsekəndˈhænd]",
+  "phonetic": "ˌsekəndˈhænd",
   "pos": "adj",
   "meaning": "adj. 二手的；adv. 间接地"
  },
@@ -9973,7 +9973,7 @@
  },
  {
   "word": "pumpkin",
-  "phonetic": "英[ˈpʌmpkɪn] 美[ˈpʌmpkɪn]",
+  "phonetic": "ˈpʌmpkɪn",
   "pos": "n",
   "meaning": "n. 南瓜"
  },
@@ -9991,7 +9991,7 @@
  },
  {
   "word": "as soon as",
-  "phonetic": "美[æz suːn æz]",
+  "phonetic": "æz suːn æz",
   "pos": "",
   "meaning": "n. a. 一…就"
  },
@@ -10021,19 +10021,19 @@
  },
  {
   "word": "all day",
-  "phonetic": "英[ˈɔːl deɪ] 美[ˈɔːl deɪ]",
+  "phonetic": "ˈɔːl deɪ",
   "pos": "",
   "meaning": "n. a. 一天到晚"
  },
  {
   "word": "so-so",
-  "phonetic": "英[ˌsəʊ ˈsəʊ] 美[ˌsoʊ ˈsoʊ]",
+  "phonetic": "ˌsəʊ ˈsəʊ ˌsoʊ ˈsoʊ",
   "pos": "adj",
   "meaning": "adj. 平常的；adv. 一般地"
  },
  {
   "word": "daytime",
-  "phonetic": "英[ˈdeɪtaɪm] 美[ˈdeɪtaɪm]",
+  "phonetic": "ˈdeɪtaɪm",
   "pos": "n",
   "meaning": "n. 日间，白天"
  },
@@ -10099,7 +10099,7 @@
  },
  {
   "word": "hometown",
-  "phonetic": "英[ˈhəʊmtaʊn] 美[ˈhoʊmtaʊn]",
+  "phonetic": "ˈhəʊmtaʊn ˈhoʊmtaʊn",
   "pos": "n",
   "meaning": "n. 家乡"
  },
@@ -10123,7 +10123,7 @@
  },
  {
   "word": "motorbike",
-  "phonetic": "英[ˈməʊtəbaɪk] 美[ˈmoʊtərbaɪk]",
+  "phonetic": "ˈməʊtəbaɪk ˈmoʊtərbaɪk",
   "pos": "n",
   "meaning": "n. 摩托车"
  },
@@ -10135,7 +10135,7 @@
  },
  {
   "word": "one-way",
-  "phonetic": "英[ˌwʌn ˈweɪ] 美[ˌwʌn ˈweɪ]",
+  "phonetic": "ˌwʌn ˈweɪ",
   "pos": "adj",
   "meaning": "adj. 单程的"
  },
@@ -10165,25 +10165,25 @@
  },
  {
   "word": "yo-yo",
-  "phonetic": "英[ˈjəʊ jəʊ] 美[ˈjoʊ joʊ]",
+  "phonetic": "ˈjəʊ jəʊ ˈjoʊ joʊ",
   "pos": "n",
   "meaning": "n. 溜溜球（一种线轴般的玩具）；adj. 上下起落的；vi. 摇摆不定"
  },
  {
   "word": "neatly",
-  "phonetic": "英[ˈniːtli] 美[ˈniːtli]",
+  "phonetic": "ˈniːtli",
   "pos": "adv",
   "meaning": "adv. 整洁地"
  },
  {
   "word": "at school",
-  "phonetic": "美[æt skuːl]",
+  "phonetic": "æt skuːl",
   "pos": "",
   "meaning": "n. a. 在学校"
  },
  {
   "word": "seafood",
-  "phonetic": "英[ˈsiːfuːd] 美[ˈsiːfuːd]",
+  "phonetic": "ˈsiːfuːd",
   "pos": "n",
   "meaning": "n. 海鲜"
  },
@@ -10195,13 +10195,13 @@
  },
  {
   "word": "watermelon",
-  "phonetic": "英[ˈwɔːtəmelən] 美[ˈwɔːtərmelən]",
+  "phonetic": "ˈwɔːtəmelən ˈwɔːtərmelən",
   "pos": "n",
   "meaning": "n. 西瓜"
  },
  {
   "word": "boating",
-  "phonetic": "英[ˈbəʊtɪŋ] 美[ˈboʊtɪŋ]",
+  "phonetic": "ˈbəʊtɪŋ ˈboʊtɪŋ",
   "pos": "n",
   "meaning": "n. 划船；adj. 划船的"
  },
@@ -10213,7 +10213,7 @@
  },
  {
   "word": "Brazil",
-  "phonetic": "英[brəˈzɪl] 美[brəˈzɪl]",
+  "phonetic": "brəˈzɪl",
   "pos": "n",
   "meaning": "n. 巴西（拉丁美洲国家）"
  },
@@ -10249,7 +10249,7 @@
  },
  {
   "word": "all in all",
-  "phonetic": "美[ɔːl ɪn ɔːl]",
+  "phonetic": "ɔːl ɪn ɔːl",
   "pos": "",
   "meaning": "n. a. 全部"
  },
@@ -10309,7 +10309,7 @@
  },
  {
   "word": "teamwork",
-  "phonetic": "英[ˈtiːmwɜːk] 美[ˈtiːmwɜːrk]",
+  "phonetic": "ˈtiːmwɜːk ˈtiːmwɜːrk",
   "pos": "n",
   "meaning": "n. 团队合作"
  },
@@ -10357,7 +10357,7 @@
  },
  {
   "word": "mid-autumn",
-  "phonetic": "英[ˌmɪdˈɔ:təm] 美[mɪd ˈɔːtəm]",
+  "phonetic": "ˌmɪdˈɔ:təm mɪd ˈɔːtəm",
   "pos": "",
   "meaning": "中秋"
  },
@@ -10423,7 +10423,7 @@
  },
  {
   "word": "Macao",
-  "phonetic": "英[məˈkaʊ] 美[məˈkaʊ]",
+  "phonetic": "məˈkaʊ",
   "pos": "n",
   "meaning": "n. 澳门"
  },
@@ -10435,7 +10435,7 @@
  },
  {
   "word": "Englishman",
-  "phonetic": "英[ˈɪŋɡlɪʃmən] 美[ˈɪŋɡlɪʃmən]",
+  "phonetic": "ˈɪŋɡlɪʃmən",
   "pos": "n",
   "meaning": "n. 英国人"
  },
@@ -10453,19 +10453,19 @@
  },
  {
   "word": "foggy",
-  "phonetic": "英[ˈfɒɡi] 美[ˈfɑːɡi]",
+  "phonetic": "ˈfɒɡi ˈfɑːɡi",
   "pos": "adj",
   "meaning": "adj. 有雾的"
  },
  {
   "word": "crow",
-  "phonetic": "英[krəʊ] 美[kroʊ]",
+  "phonetic": "krəʊ kroʊ",
   "pos": "n",
   "meaning": "n. [鸟] 乌鸦；vi. 啼叫"
  },
  {
   "word": "be away from",
-  "phonetic": "美[bi əˈweɪ frəm]",
+  "phonetic": "bi əˈweɪ frəm",
   "pos": "",
   "meaning": "远离；离开；从……离开"
  },
@@ -10477,25 +10477,25 @@
  },
  {
   "word": "snowman",
-  "phonetic": "英[ˈsnəʊmæn] 美[ˈsnoʊmæn]",
+  "phonetic": "ˈsnəʊmæn ˈsnoʊmæn",
   "pos": "n",
   "meaning": "n. 雪人"
  },
  {
   "word": "rim",
-  "phonetic": "英[rɪm] 美[rɪm]",
+  "phonetic": "rɪm",
   "pos": "n",
   "meaning": "n. 边，边缘；vt. 作…的边，装边于；vi. 作…的边，装边于"
  },
  {
   "word": "schoolbag",
-  "phonetic": "英[ˈskuːlbæɡ] 美[ˈskuːlˌbæɡ]",
+  "phonetic": "ˈskuːlbæɡ ˈskuːlˌbæɡ",
   "pos": "n",
   "meaning": "n. 书包"
  },
  {
   "word": "scarf",
-  "phonetic": "英[skɑːf] 美[skɑːrf]",
+  "phonetic": "skɑːf skɑːrf",
   "pos": "n",
   "meaning": "n. 围巾；vt. 披嵌接"
  },
@@ -10507,13 +10507,13 @@
  },
  {
   "word": "recorder",
-  "phonetic": "英[rɪˈkɔːdə(r)] 美[rɪˈkɔːrdər]",
+  "phonetic": "rɪˈkɔːdə(r) rɪˈkɔːrdər",
   "pos": "n",
   "meaning": "n. 录音机"
  },
  {
   "word": "porridge",
-  "phonetic": "英[ˈpɒrɪdʒ] 美[ˈpɔːrɪdʒ]",
+  "phonetic": "ˈpɒrɪdʒ ˈpɔːrɪdʒ",
   "pos": "n",
   "meaning": "n. 粥，糊；vt. 服刑"
  },
@@ -10525,7 +10525,7 @@
  },
  {
   "word": "bookmark",
-  "phonetic": "英[ˈbʊkmɑːk] 美[ˈbʊkmɑːrk]",
+  "phonetic": "ˈbʊkmɑːk ˈbʊkmɑːrk",
   "pos": "n",
   "meaning": "n. 书签（等于bookmarker）"
  },
@@ -10537,7 +10537,7 @@
  },
  {
   "word": "roller-skating",
-  "phonetic": "英[ˈrəʊlə skeɪtɪŋ] 美[ˈroʊlər skeɪtɪŋ]",
+  "phonetic": "ˈrəʊlə skeɪtɪŋ ˈroʊlər skeɪtɪŋ",
   "pos": "n",
   "meaning": "n. 轮式溜冰"
  },
@@ -10591,7 +10591,7 @@
  },
  {
   "word": "icon",
-  "phonetic": "英[ˈaɪkɒn] 美[ˈaɪkɑːn]",
+  "phonetic": "ˈaɪkɒn ˈaɪkɑːn",
   "pos": "n",
   "meaning": "n. 图标"
  },
@@ -10609,7 +10609,7 @@
  },
  {
   "word": "farmland",
-  "phonetic": "英[ˈfɑːmlænd] 美[ˈfɑːrmlænd]",
+  "phonetic": "ˈfɑːmlænd ˈfɑːrmlænd",
   "pos": "n",
   "meaning": "n. 农田"
  },
@@ -10639,7 +10639,7 @@
  },
  {
   "word": "widely",
-  "phonetic": "英[ˈwaɪdli] 美[ˈwaɪdli]",
+  "phonetic": "ˈwaɪdli",
   "pos": "adv",
   "meaning": "adv. 广泛地"
  },
@@ -10651,7 +10651,7 @@
  },
  {
   "word": "telegraph",
-  "phonetic": "英[ˈtelɪɡrɑːf] 美[ˈtelɪɡræf]",
+  "phonetic": "ˈtelɪɡrɑːf ˈtelɪɡræf",
   "pos": "n",
   "meaning": "n. [通信] 电报机，电报；vt. 电汇；vi. 打电报"
  },
@@ -10681,19 +10681,19 @@
  },
  {
   "word": "moonlight",
-  "phonetic": "英[ˈmuːnlaɪt] 美[ˈmuːnlaɪt]",
+  "phonetic": "ˈmuːnlaɪt",
   "pos": "adj",
   "meaning": "adj. 月夜的；n. 月光"
  },
  {
   "word": "USA",
-  "phonetic": "英[ˌjuː es ˈeɪ] 美[ˌjuː es ˈeɪ]",
+  "phonetic": "ˌjuː es ˈeɪ",
   "pos": "abbr",
   "meaning": "abbr. 美国"
  },
  {
   "word": "licence",
-  "phonetic": "英[ˈlaɪs(ə)ns] 美[ˈlaɪs(ə)ns]",
+  "phonetic": "ˈlaɪs(ə)ns",
   "pos": "n",
   "meaning": "n. 许可证，执照；vt. 特许，许可"
  },
@@ -10759,7 +10759,7 @@
  },
  {
   "word": "as well as",
-  "phonetic": "英[æz wel əz] 美[æz wel əz]",
+  "phonetic": "æz wel əz",
   "pos": "",
   "meaning": "n. a. 和…一样"
  },
@@ -10789,13 +10789,13 @@
  },
  {
   "word": "toothache",
-  "phonetic": "英[ˈtuːθeɪk] 美[ˈtuːθeɪk]",
+  "phonetic": "ˈtuːθeɪk",
   "pos": "n",
   "meaning": "n. [口腔] 牙痛"
  },
  {
   "word": "explorer",
-  "phonetic": "英[ɪkˈsplɔːrə(r)] 美[ɪkˈsplɔːrər]",
+  "phonetic": "ɪkˈsplɔːrə(r) ɪkˈsplɔːrər",
   "pos": "n",
   "meaning": "n. 探险家"
  },
@@ -10807,13 +10807,13 @@
  },
  {
   "word": "all by oneself",
-  "phonetic": "美[ɔːl baɪ wʌnˈself]",
+  "phonetic": "ɔːl baɪ wʌnˈself",
   "pos": "",
   "meaning": "单独；全靠自己；独立"
  },
  {
   "word": "half-way",
-  "phonetic": "英[ˌhɑːfˈweɪ] 美[ˌhæfˈweɪ]",
+  "phonetic": "ˌhɑːfˈweɪ ˌhæfˈweɪ",
   "pos": "adv",
   "meaning": "adv. 位于中途"
  },
@@ -10831,7 +10831,7 @@
  },
  {
   "word": "kind-hearted",
-  "phonetic": "英[ˌkaɪnd ˈhɑːtɪd] 美[ˌkaɪnd ˈhɑːrtɪd]",
+  "phonetic": "ˌkaɪnd ˈhɑːtɪd ˌkaɪnd ˈhɑːrtɪd",
   "pos": "adj",
   "meaning": "adj. 仁慈的，好心肠的"
  },
@@ -10843,7 +10843,7 @@
  },
  {
   "word": "tofu",
-  "phonetic": "英[ˈtəʊfuː] 美[ˈtoʊfuː]",
+  "phonetic": "ˈtəʊfuː ˈtoʊfuː",
   "pos": "n",
   "meaning": "n. 豆腐"
  },
@@ -10861,7 +10861,7 @@
  },
  {
   "word": "politely",
-  "phonetic": "英[pəˈlaɪtli] 美[pəˈlaɪtli]",
+  "phonetic": "pəˈlaɪtli",
   "pos": "adv",
   "meaning": "adv. 有礼貌地"
  },
@@ -10885,7 +10885,7 @@
  },
  {
   "word": "maths",
-  "phonetic": "英[mæθs] 美[mæθs]",
+  "phonetic": "mæθs",
   "pos": "n",
   "meaning": "n. 数学（等于mathematics）"
  },
@@ -10909,25 +10909,25 @@
  },
  {
   "word": "at table",
-  "phonetic": "美[æt ˈteɪbl]",
+  "phonetic": "æt ˈteɪbl",
   "pos": "",
   "meaning": "n. a. 在吃饭"
  },
  {
   "word": "postal",
-  "phonetic": "英[ˈpəʊst(ə)l] 美[ˈpoʊst(ə)l]",
+  "phonetic": "ˈpəʊst(ə)l ˈpoʊst(ə)l",
   "pos": "n",
   "meaning": "n. 明信片；adj. 邮政的"
  },
  {
   "word": "microcomputer",
-  "phonetic": "英[ˈmaɪkrəʊkəmpjuːtə(r)] 美[ˈmaɪkroʊkəmpjuːtər]",
+  "phonetic": "ˈmaɪkrəʊkəmpjuːtə(r) ˈmaɪkroʊkəmpjuːtər",
   "pos": "n",
   "meaning": "n. 微电脑"
  },
  {
   "word": "Swedish",
-  "phonetic": "英[ˈswiːdɪʃ] 美[ˈswiːdɪʃ]",
+  "phonetic": "ˈswiːdɪʃ",
   "pos": "n",
   "meaning": "n. 瑞典语；adj. 瑞典的"
  },
@@ -10981,13 +10981,13 @@
  },
  {
   "word": "vet",
-  "phonetic": "英[vet] 美[vet]",
+  "phonetic": "vet",
   "pos": "n",
   "meaning": "n. 兽医；vt. 审查；vi. 作兽医"
  },
  {
   "word": "successfully",
-  "phonetic": "英[səkˈsesfəli] 美[səkˈsesfəli]",
+  "phonetic": "səkˈsesfəli",
   "pos": "adv",
   "meaning": "adv. 成功地"
  },
@@ -10999,7 +10999,7 @@
  },
  {
   "word": "undersea",
-  "phonetic": "英[ˈʌndəsiː] 美[ˈʌndərsiː]",
+  "phonetic": "ˈʌndəsiː ˈʌndərsiː",
   "pos": "adj",
   "meaning": "adj. 水下的"
  },
@@ -11017,7 +11017,7 @@
  },
  {
   "word": "two-story",
-  "phonetic": "美[tuː ˈstɔːri]",
+  "phonetic": "tuː ˈstɔːri",
   "pos": "",
   "meaning": "两层的"
  },
@@ -11029,7 +11029,7 @@
  },
  {
   "word": "reef",
-  "phonetic": "英[riːf] 美[riːf]",
+  "phonetic": "riːf",
   "pos": "n",
   "meaning": "n. 暗礁；vt. 收帆；vi. 缩帆"
  },
@@ -11041,7 +11041,7 @@
  },
  {
   "word": "a few",
-  "phonetic": "英[ə fjuː] 美[ə fjuː]",
+  "phonetic": "ə fjuː",
   "pos": "",
   "meaning": "n. a. 几个"
  },
@@ -11059,7 +11059,7 @@
  },
  {
   "word": "be able to",
-  "phonetic": "美[bi ˈeɪbl tu]",
+  "phonetic": "bi ˈeɪbl tu",
   "pos": "",
   "meaning": "v. 能够"
  },
@@ -11071,7 +11071,7 @@
  },
  {
   "word": "penguin",
-  "phonetic": "英[ˈpeŋɡwɪn] 美[ˈpeŋɡwɪn]",
+  "phonetic": "ˈpeŋɡwɪn",
   "pos": "n",
   "meaning": "n. 企鹅"
  },
@@ -11119,19 +11119,19 @@
  },
  {
   "word": "dinosaur",
-  "phonetic": "英[ˈdaɪnəsɔː(r)] 美[ˈdaɪnəsɔːr]",
+  "phonetic": "ˈdaɪnəsɔː(r) ˈdaɪnəsɔːr",
   "pos": "n",
   "meaning": "n. 恐龙"
  },
  {
   "word": "schoolboy",
-  "phonetic": "英[ˈskuːlbɔɪ] 美[ˈskuːlbɔɪ]",
+  "phonetic": "ˈskuːlbɔɪ",
   "pos": "n",
   "meaning": "n. 男学生"
  },
  {
   "word": "as usual",
-  "phonetic": "美[æz ˈjuːʒʊəl]",
+  "phonetic": "æz ˈjuːʒʊəl",
   "pos": "adv",
   "meaning": "adv. 照常"
  },
@@ -11149,7 +11149,7 @@
  },
  {
   "word": "zebra",
-  "phonetic": "英[ˈzebrə] 美[ˈziːbrə]",
+  "phonetic": "ˈzebrə ˈziːbrə",
   "pos": "n",
   "meaning": "n. [脊椎] 斑马；adj. 有斑纹的"
  },
@@ -11173,19 +11173,19 @@
  },
  {
   "word": "seller",
-  "phonetic": "英[ˈselə(r)] 美[ˈselər]",
+  "phonetic": "ˈselə(r) ˈselər",
   "pos": "n",
   "meaning": "n. 卖方，售货员"
  },
  {
   "word": "again and again",
-  "phonetic": "美[əˈɡen ənd əˈɡen]",
+  "phonetic": "əˈɡen ənd əˈɡen",
   "pos": "",
   "meaning": "n. a. 再三再四"
  },
  {
   "word": "arrive at",
-  "phonetic": "美[əˈraɪv æt]",
+  "phonetic": "əˈraɪv æt",
   "pos": "",
   "meaning": "v. 到达；得出"
  },
@@ -11197,13 +11197,13 @@
  },
  {
   "word": "Canadian",
-  "phonetic": "英[kəˈneɪdiən] 美[kəˈneɪdiən]",
+  "phonetic": "kəˈneɪdiən",
   "pos": "n",
   "meaning": "n. 加拿大人；adj. 加拿大（人）的"
  },
  {
   "word": "robber",
-  "phonetic": "英[ˈrɒbə(r)] 美[ˈrɑːbər]",
+  "phonetic": "ˈrɒbə(r) ˈrɑːbər",
   "pos": "n",
   "meaning": "n. 强盗"
  },
@@ -11215,19 +11215,19 @@
  },
  {
   "word": "bleat",
-  "phonetic": "英[bliːt] 美[bliːt]",
+  "phonetic": "bliːt",
   "pos": "n",
   "meaning": "n. 咩咩叫声；vt. 咩咩地叫；vi. 咩咩叫"
  },
  {
   "word": "conductor",
-  "phonetic": "英[kənˈdʌktə(r)] 美[kənˈdʌktər]",
+  "phonetic": "kənˈdʌktə(r) kənˈdʌktər",
   "pos": "n",
   "meaning": "n. 导体"
  },
  {
   "word": "farthest",
-  "phonetic": "英[ˈfɑːðɪst] 美[ˈfɑːrðɪst]",
+  "phonetic": "ˈfɑːðɪst ˈfɑːrðɪst",
   "pos": "adj",
   "meaning": "adj. 最远的；adv. 最远地（far的最高级）"
  },
@@ -11239,7 +11239,7 @@
  },
  {
   "word": "iceberg",
-  "phonetic": "英[ˈaɪsbɜːɡ] 美[ˈaɪsbɜːrɡ]",
+  "phonetic": "ˈaɪsbɜːɡ ˈaɪsbɜːrɡ",
   "pos": "n",
   "meaning": "n. [地理] 冰山"
  },
@@ -11251,7 +11251,7 @@
  },
  {
   "word": "jumper",
-  "phonetic": "英[ˈdʒʌmpə(r)] 美[ˈdʒʌmpər]",
+  "phonetic": "ˈdʒʌmpə(r) ˈdʒʌmpər",
   "pos": "n",
   "meaning": "n. 跳高运动员"
  },
@@ -11269,7 +11269,7 @@
  },
  {
   "word": "Titanic",
-  "phonetic": "英[taɪˈtænɪk] 美[taɪˈtænɪk]",
+  "phonetic": "taɪˈtænɪk",
   "pos": "adj",
   "meaning": "adj. 巨大的；n. 泰坦尼克号"
  },
@@ -11305,7 +11305,7 @@
  },
  {
   "word": "salesgirl",
-  "phonetic": "英[ˈseɪlzɡɜːl] 美[ˈseɪlzɡɜːrl]",
+  "phonetic": "ˈseɪlzɡɜːl ˈseɪlzɡɜːrl",
   "pos": "n",
   "meaning": "n. 女售货员，女店员"
  },
@@ -11317,25 +11317,25 @@
  },
  {
   "word": "crayon",
-  "phonetic": "英[ˈkreɪən; ˈkreɪɒn] 美[ˈkreɪən; ˈkreɪɑːn]",
+  "phonetic": "ˈkreɪən; ˈkreɪɒn ˈkreɪən; ˈkreɪɑːn",
   "pos": "n",
   "meaning": "n. 蜡笔，有色粉笔；vt. 以蜡笔作画，用颜色粉笔画"
  },
  {
   "word": "at night",
-  "phonetic": "美[æt naɪt]",
+  "phonetic": "æt naɪt",
   "pos": "",
   "meaning": "n. a. 在黄昏时候"
  },
  {
   "word": "surfer",
-  "phonetic": "英[ˈsɜːfə(r)] 美[ˈsɜːrfər]",
+  "phonetic": "ˈsɜːfə(r) ˈsɜːrfər",
   "pos": "n",
   "meaning": "n. 冲浪运动员，乘冲浪板冲浪的人"
  },
  {
   "word": "tomb",
-  "phonetic": "英[tuːm] 美[tuːm]",
+  "phonetic": "tuːm",
   "pos": "n",
   "meaning": "n. 坟墓；vt. 埋葬"
  },
@@ -11365,7 +11365,7 @@
  },
  {
   "word": "all over",
-  "phonetic": "英[ˈɔːl əʊvə(r)]",
+  "phonetic": "ˈɔːl əʊvə(r)",
   "pos": "adj",
   "meaning": "adj. 满；n. 全花织物"
  },
@@ -11377,13 +11377,13 @@
  },
  {
   "word": "unlucky",
-  "phonetic": "英[ʌnˈlʌki] 美[ʌnˈlʌki]",
+  "phonetic": "ʌnˈlʌki",
   "pos": "adj",
   "meaning": "adj. 不幸的"
  },
  {
   "word": "lifeboat",
-  "phonetic": "英[ˈlaɪfbəʊt] 美[ˈlaɪfboʊt]",
+  "phonetic": "ˈlaɪfbəʊt ˈlaɪfboʊt",
   "pos": "n",
   "meaning": "n. [船][安全] 救生艇，救生船"
  },
@@ -11413,7 +11413,7 @@
  },
  {
   "word": "wardrobe",
-  "phonetic": "英[ˈwɔːdrəʊb] 美[ˈwɔːrdroʊb]",
+  "phonetic": "ˈwɔːdrəʊb ˈwɔːrdroʊb",
   "pos": "n",
   "meaning": "n. 衣柜"
  },
@@ -11443,13 +11443,13 @@
  },
  {
   "word": "teapot",
-  "phonetic": "英[ˈtiːpɒt] 美[ˈtiːpɑːt]",
+  "phonetic": "ˈtiːpɒt ˈtiːpɑːt",
   "pos": "n",
   "meaning": "n. 茶壶"
  },
  {
   "word": "as if",
-  "phonetic": "美[æz ɪf]",
+  "phonetic": "æz ɪf",
   "pos": "",
   "meaning": "n. a. 彷佛"
  },
@@ -11467,7 +11467,7 @@
  },
  {
   "word": "toothpaste",
-  "phonetic": "英[ˈtuːθpeɪst] 美[ˈtuːθpeɪst]",
+  "phonetic": "ˈtuːθpeɪst",
   "pos": "n",
   "meaning": "n. 牙膏"
  },
@@ -11515,7 +11515,7 @@
  },
  {
   "word": "sadly",
-  "phonetic": "英[ˈsædli] 美[ˈsædli]",
+  "phonetic": "ˈsædli",
   "pos": "adv",
   "meaning": "adv. 悲哀地"
  },
@@ -11527,13 +11527,13 @@
  },
  {
   "word": "at noon",
-  "phonetic": "美[æt nuːn]",
+  "phonetic": "æt nuːn",
   "pos": "",
   "meaning": "n. a. 在中午"
  },
  {
   "word": "Toronto",
-  "phonetic": "英[təˈrɒntəʊ] 美[təˈrɑːntoʊ]",
+  "phonetic": "təˈrɒntəʊ təˈrɑːntoʊ",
   "pos": "n",
   "meaning": "n. 多伦多（加拿大城市）"
  },
@@ -11563,7 +11563,7 @@
  },
  {
   "word": "dustbin",
-  "phonetic": "英[ˈdʌstbɪn] 美[ˈdʌstbɪn]",
+  "phonetic": "ˈdʌstbɪn",
   "pos": "n",
   "meaning": "n. 垃圾箱"
  },
@@ -11605,13 +11605,13 @@
  },
  {
   "word": "sunglasses",
-  "phonetic": "英[ˈsʌnɡlɑːsɪz] 美[ˈsʌnɡlæsɪz]",
+  "phonetic": "ˈsʌnɡlɑːsɪz ˈsʌnɡlæsɪz",
   "pos": "n",
   "meaning": "n. 太阳镜"
  },
  {
   "word": "at breakfast",
-  "phonetic": "英[æt ˈbrekfəst] 美[æt ˈbrekfəst]",
+  "phonetic": "æt ˈbrekfəst",
   "pos": "",
   "meaning": "n. a. 早餐时"
  },
@@ -11635,13 +11635,13 @@
  },
  {
   "word": "part-time",
-  "phonetic": "英[ˌpɑːt ˈtaɪm] 美[ˌpɑːrt ˈtaɪm]",
+  "phonetic": "ˌpɑːt ˈtaɪm ˌpɑːrt ˈtaɪm",
   "pos": "adj",
   "meaning": "adj. 兼职的；adv. 兼职地"
  },
  {
   "word": "aim at",
-  "phonetic": "美[eɪm æt]",
+  "phonetic": "eɪm æt",
   "pos": "",
   "meaning": "v. 目的在于"
  },
@@ -11659,13 +11659,13 @@
  },
  {
   "word": "strawberry",
-  "phonetic": "英[ˈstrɔːbəri] 美[ˈstrɔːberi]",
+  "phonetic": "ˈstrɔːbəri ˈstrɔːberi",
   "pos": "n",
   "meaning": "n. 草莓"
  },
  {
   "word": "watchtower",
-  "phonetic": "英[ˈwɒtʃtaʊə(r)] 美[ˈwɑːtʃtaʊər]",
+  "phonetic": "ˈwɒtʃtaʊə(r) ˈwɑːtʃtaʊər",
   "pos": "n",
   "meaning": "n. 瞭望塔，岗楼"
  },
@@ -11701,19 +11701,19 @@
  },
  {
   "word": "o'clock",
-  "phonetic": "英[əˈklɒk] 美[əˈklɑːk]",
+  "phonetic": "əˈklɒk əˈklɑːk",
   "pos": "abbr",
   "meaning": "abbr. …点钟（等于of the clock）"
  },
  {
   "word": "bookshop",
-  "phonetic": "英[ˈbʊkʃɒp] 美[ˈbʊkʃɑːp]",
+  "phonetic": "ˈbʊkʃɒp ˈbʊkʃɑːp",
   "pos": "n",
   "meaning": "n. 书店"
  },
  {
   "word": "pencil-box",
-  "phonetic": "英[ˈpens(ə)l bɒks] 美[ˈpens(ə)l bɑːks]",
+  "phonetic": "ˈpens(ə)l bɒks ˈpens(ə)l bɑːks",
   "pos": "n",
   "meaning": "n. 铅笔盒"
  },
@@ -11725,7 +11725,7 @@
  },
  {
   "word": "healthily",
-  "phonetic": "英[ˈhelθɪli] 美[ˈhelθɪli]",
+  "phonetic": "ˈhelθɪli",
   "pos": "adv",
   "meaning": "adv. 健康地"
  },
@@ -11791,7 +11791,7 @@
  },
  {
   "word": "schoolyard",
-  "phonetic": "英[ˈskuːljɑːd] 美[ˈskuːljɑːrd]",
+  "phonetic": "ˈskuːljɑːd ˈskuːljɑːrd",
   "pos": "n",
   "meaning": "n. 校园"
  },
@@ -11827,13 +11827,13 @@
  },
  {
   "word": "T-shirt",
-  "phonetic": "英[ˈtiː ʃɜːt] 美[ˈtiː ʃɜːrt]",
+  "phonetic": "ˈtiː ʃɜːt ˈtiː ʃɜːrt",
   "pos": "n",
   "meaning": "n. 短袖圆领汗衫"
  },
  {
   "word": "gatekeeper",
-  "phonetic": "英[ˈɡeɪtkiːpə(r)] 美[ˈɡeɪtkiːpər]",
+  "phonetic": "ˈɡeɪtkiːpə(r) ˈɡeɪtkiːpər",
   "pos": "n",
   "meaning": "n. 看门人"
  },
@@ -11881,7 +11881,7 @@
  },
  {
   "word": "a little",
-  "phonetic": "美[ə ˈlɪtl]",
+  "phonetic": "ə ˈlɪtl",
   "pos": "n",
   "meaning": "n. 一点"
  },
@@ -11953,7 +11953,7 @@
  },
  {
   "word": "beeper",
-  "phonetic": "英[ˈbiːpə(r)] 美[ˈbiːpər]",
+  "phonetic": "ˈbiːpə(r) ˈbiːpər",
   "pos": "n",
   "meaning": "n. 能发出哔哔声音的仪器"
  },
@@ -11977,13 +11977,13 @@
  },
  {
   "word": "at lunch",
-  "phonetic": "美[æt lʌntʃ]",
+  "phonetic": "æt lʌntʃ",
   "pos": "",
   "meaning": "吃午餐；在午饭时；在吃午饭"
  },
  {
   "word": "twenty-first",
-  "phonetic": "英[ˌtwenti ˈfɜːst] 美[ˌtwenti ˈfɜːrst]",
+  "phonetic": "ˌtwenti ˈfɜːst ˌtwenti ˈfɜːrst",
   "pos": "num",
   "meaning": "n. um. 第二十一"
  },
@@ -11995,7 +11995,7 @@
  },
  {
   "word": "Australian",
-  "phonetic": "英[ɒˈstreɪliən] 美[ɔːˈstreɪliən]",
+  "phonetic": "ɒˈstreɪliən ɔːˈstreɪliən",
   "pos": "adj",
   "meaning": "adj. 澳大利亚的，澳大利亚人的；n. 澳大利亚人"
  },
@@ -12007,7 +12007,7 @@
  },
  {
   "word": "by chance",
-  "phonetic": "美[baɪ tʃæns]",
+  "phonetic": "baɪ tʃæns",
   "pos": "",
   "meaning": "n. a. 偶然"
  },
@@ -12025,7 +12025,7 @@
  },
  {
   "word": "come by",
-  "phonetic": "美[kʌm baɪ]",
+  "phonetic": "kʌm baɪ",
   "pos": "",
   "meaning": "n. a. 到手"
  },
@@ -12037,13 +12037,13 @@
  },
  {
   "word": "come to know",
-  "phonetic": "美[kʌm tu noʊ]",
+  "phonetic": "kʌm tu noʊ",
   "pos": "",
   "meaning": "开始了解到；开始认识到；终于认识到"
  },
  {
   "word": "complain about",
-  "phonetic": "美[kəmˈpleɪn əˈbaʊt]",
+  "phonetic": "kəmˈpleɪn əˈbaʊt",
   "pos": "",
   "meaning": "v. 埋怨"
  },
@@ -12055,7 +12055,7 @@
  },
  {
   "word": "believe in",
-  "phonetic": "美[bɪˈliːv ɪn]",
+  "phonetic": "bɪˈliːv ɪn",
   "pos": "",
   "meaning": "v. 相信"
  },
@@ -12067,19 +12067,19 @@
  },
  {
   "word": "in fact",
-  "phonetic": "美[ɪn fækt]",
+  "phonetic": "ɪn fækt",
   "pos": "",
   "meaning": "n. a. 事实上"
  },
  {
   "word": "less than",
-  "phonetic": "英[les ðæn] 美[les ðæn]",
+  "phonetic": "les ðæn",
   "pos": "adj",
   "meaning": "adj. 少于"
  },
  {
   "word": "make it",
-  "phonetic": "美[meɪk ɪt]",
+  "phonetic": "meɪk ɪt",
   "pos": "",
   "meaning": "n. a. 赶到"
  },
@@ -12097,7 +12097,7 @@
  },
  {
   "word": "keep away from",
-  "phonetic": "美[kiːp əˈweɪ frəm]",
+  "phonetic": "kiːp əˈweɪ frəm",
   "pos": "",
   "meaning": "v. 远离"
  },
@@ -12115,13 +12115,13 @@
  },
  {
   "word": "hurry up",
-  "phonetic": "英['hʌrɪ ʌp] 美['hɜːrɪ ʌp]",
+  "phonetic": "'hʌrɪ ʌp 'hɜːrɪ ʌp",
   "pos": "",
   "meaning": "n. a. 催促"
  },
  {
   "word": "live on",
-  "phonetic": "英[lɪv ɒn] 美[lɪv ɑn]",
+  "phonetic": "lɪv ɒn lɪv ɑn",
   "pos": "",
   "meaning": "n. a. 以…为主食"
  },
@@ -12133,37 +12133,37 @@
  },
  {
   "word": "be strict in",
-  "phonetic": "美[bi strɪkt ɪn]",
+  "phonetic": "bi strɪkt ɪn",
   "pos": "",
   "meaning": "对某事严格要求；对某事要求严格；严于"
  },
  {
   "word": "feel like doing",
-  "phonetic": "美[fiːl laɪk ˈduːɪŋ]",
+  "phonetic": "fiːl laɪk ˈduːɪŋ",
   "pos": "",
   "meaning": "想要做某事；觉得想做；想干某事"
  },
  {
   "word": "keep in mind",
-  "phonetic": "美[kiːp ɪn maɪnd]",
+  "phonetic": "kiːp ɪn maɪnd",
   "pos": "",
   "meaning": "n. a. 记在心里"
  },
  {
   "word": "be kind to",
-  "phonetic": "美[bi kaɪnd tu]",
+  "phonetic": "bi kaɪnd tu",
   "pos": "",
   "meaning": "n. a. 对…厚道"
  },
  {
   "word": "be made from",
-  "phonetic": "美[bi meɪd frəm]",
+  "phonetic": "bi meɪd frəm",
   "pos": "",
   "meaning": "n. a. 由…制成的"
  },
  {
   "word": "come on",
-  "phonetic": "英[ˈkʌm ɒn]",
+  "phonetic": "ˈkʌm ɒn",
   "pos": "",
   "meaning": "n. a. (演员)出台"
  },
@@ -12175,7 +12175,7 @@
  },
  {
   "word": "look around",
-  "phonetic": "美[lʊk əˈraʊnd]",
+  "phonetic": "lʊk əˈraʊnd",
   "pos": "",
   "meaning": "n. a. 看起来好像"
  },
@@ -12193,7 +12193,7 @@
  },
  {
   "word": "just now",
-  "phonetic": "英[dʒʌst nau] 美[dʒʌst naʊ]",
+  "phonetic": "dʒʌst nau dʒʌst naʊ",
   "pos": "",
   "meaning": "n. a. 刚才"
  },
@@ -12223,7 +12223,7 @@
  },
  {
   "word": "keep fit",
-  "phonetic": "英[ˌkiːp ˈfɪt] 美[ˌkiːp ˈfɪt]",
+  "phonetic": "ˌkiːp ˈfɪt",
   "pos": "",
   "meaning": "n. a. 保持健康"
  },
@@ -12235,25 +12235,25 @@
  },
  {
   "word": "call up",
-  "phonetic": "英[ˈkɔːl ʌp] 美[kɔːl ʌp]",
+  "phonetic": "ˈkɔːl ʌp kɔːl ʌp",
   "pos": "",
   "meaning": "n. a. 传"
  },
  {
   "word": "come up with",
-  "phonetic": "美[kʌm ʌp wɪð]",
+  "phonetic": "kʌm ʌp wɪð",
   "pos": "",
   "meaning": "n. a. 想出(一个主意或计划)"
  },
  {
   "word": "make a mistake",
-  "phonetic": "美[meɪk ə mɪˈsteɪk]",
+  "phonetic": "meɪk ə mɪˈsteɪk",
   "pos": "",
   "meaning": "n. a. 犯错误"
  },
  {
   "word": "go fishing",
-  "phonetic": "英[ɡəʊ ˈfɪʃɪŋ] 美[ɡoʊ ˈfɪʃɪŋ]",
+  "phonetic": "ɡəʊ ˈfɪʃɪŋ ɡoʊ ˈfɪʃɪŋ",
   "pos": "",
   "meaning": "去钓鱼；垂钓；我以前常去钓鱼"
  },
@@ -12271,25 +12271,25 @@
  },
  {
   "word": "free from",
-  "phonetic": "美[friː frəm]",
+  "phonetic": "friː frəm",
   "pos": "",
   "meaning": "n. a. 无…的"
  },
  {
   "word": "lie in",
-  "phonetic": "英[ˌlaɪ ˈɪn] 美[ˌlaɪ ˈɪn]",
+  "phonetic": "ˌlaɪ ˈɪn",
   "pos": "",
   "meaning": "n. a. 存在于"
  },
  {
   "word": "in the day",
-  "phonetic": "美[ɪn ðə deɪ]",
+  "phonetic": "ɪn ðə deɪ",
   "pos": "",
   "meaning": "在白天；在昼；在白昼"
  },
  {
   "word": "kill the time",
-  "phonetic": "美[kɪl ðə taɪm]",
+  "phonetic": "kɪl ðə taɪm",
   "pos": "",
   "meaning": "打发时间；消磨时间；消磨时光"
  },
@@ -12301,13 +12301,13 @@
  },
  {
   "word": "in a minute",
-  "phonetic": "美[ɪn ə ˈmɪnɪt]",
+  "phonetic": "ɪn ə ˈmɪnɪt",
   "pos": "",
   "meaning": "n. a. 马上"
  },
  {
   "word": "let out",
-  "phonetic": "英[ˈlet aʊt] 美[ˈlet aʊt]",
+  "phonetic": "ˈlet aʊt",
   "pos": "",
   "meaning": "n. a. 放宽"
  },
@@ -12319,13 +12319,13 @@
  },
  {
   "word": "make friends with",
-  "phonetic": "美[meɪk frendz wɪð]",
+  "phonetic": "meɪk frendz wɪð",
   "pos": "",
   "meaning": "n. a. 跟…做朋友"
  },
  {
   "word": "make a choice",
-  "phonetic": "美[meɪk ə tʃɔɪs]",
+  "phonetic": "meɪk ə tʃɔɪs",
   "pos": "",
   "meaning": "un. 不得不；除…外；没有别的选择；拿定主意"
  },
@@ -12337,7 +12337,7 @@
  },
  {
   "word": "cut up",
-  "phonetic": "英[kʌt ʌp] 美[kʌt ʌp]",
+  "phonetic": "kʌt ʌp",
   "pos": "",
   "meaning": "n. a. 割裂"
  },
@@ -12349,31 +12349,31 @@
  },
  {
   "word": "get to",
-  "phonetic": "美[ɡet tu]",
+  "phonetic": "ɡet tu",
   "pos": "",
   "meaning": "n. a. 接触到"
  },
  {
   "word": "do business",
-  "phonetic": "美[duː ˈbɪznəs; duː ˈbɪznɪs]",
+  "phonetic": "duː ˈbɪznəs; duː ˈbɪznɪs",
   "pos": "",
   "meaning": "n. a. 做买卖"
  },
  {
   "word": "lie down",
-  "phonetic": "英[ˌlaɪ ˈdaʊn] 美[ˌlaɪ ˈdaʊn]",
+  "phonetic": "ˌlaɪ ˈdaʊn",
   "pos": "",
   "meaning": "v. 躺下；不反抗；屈服；顺从"
  },
  {
   "word": "break into",
-  "phonetic": "美[breɪk ˈɪntu]",
+  "phonetic": "breɪk ˈɪntu",
   "pos": "",
   "meaning": "n. a. 闯进"
  },
  {
   "word": "break down",
-  "phonetic": "美[breɪk daʊn]",
+  "phonetic": "breɪk daʊn",
   "pos": "",
   "meaning": "v. 分解；抛锚；分析；划分"
  },
@@ -12385,7 +12385,7 @@
  },
  {
   "word": "make sure",
-  "phonetic": "英[meɪk ʃʊə(r)] 美[meɪk ʃʊr]",
+  "phonetic": "meɪk ʃʊə(r) meɪk ʃʊr",
   "pos": "",
   "meaning": "n. a. 尽力做到"
  },
@@ -12403,7 +12403,7 @@
  },
  {
   "word": "come from",
-  "phonetic": "美[kʌm frəm]",
+  "phonetic": "kʌm frəm",
   "pos": "",
   "meaning": "v. 来自；出身；归因于"
  },
@@ -12415,13 +12415,13 @@
  },
  {
   "word": "in front of",
-  "phonetic": "英[ɪn frʌnt əv] 美[ɪn frʌnt ʌv]",
+  "phonetic": "ɪn frʌnt əv ɪn frʌnt ʌv",
   "pos": "",
   "meaning": "n. a. 在…的前面"
  },
  {
   "word": "fall off",
-  "phonetic": "英[ˈfɔːl ɒf]",
+  "phonetic": "ˈfɔːl ɒf",
   "pos": "",
   "meaning": "n. a. 下降"
  },
@@ -12445,7 +12445,7 @@
  },
  {
   "word": "have to",
-  "phonetic": "英[ˈhæv tu] 美[ˈhæv tə; ˈhæf tə]",
+  "phonetic": "ˈhæv tu ˈhæv tə; ˈhæf tə",
   "pos": "modalv",
   "meaning": "modalv. 不得不；必须；劝告或建议时用；表示一定真实或肯定发生；v. 不得不；必须；一定；应当"
  },
@@ -12463,13 +12463,13 @@
  },
  {
   "word": "give away",
-  "phonetic": "美[ɡɪv əˈweɪ]",
+  "phonetic": "ɡɪv əˈweɪ",
   "pos": "",
   "meaning": "n. a. 赠送"
  },
  {
   "word": "by mistake",
-  "phonetic": "美[baɪ mɪˈsteɪk]",
+  "phonetic": "baɪ mɪˈsteɪk",
   "pos": "",
   "meaning": "n. a. 因错误"
  },
@@ -12511,7 +12511,7 @@
  },
  {
   "word": "how much",
-  "phonetic": "英[haʊ mʌtʃ] 美[haʊ mʌtʃ]",
+  "phonetic": "haʊ mʌtʃ",
   "pos": "conj",
   "meaning": "conj. 多少"
  },
@@ -12535,7 +12535,7 @@
  },
  {
   "word": "happen to do",
-  "phonetic": "美[ˈhæpən tu duː]",
+  "phonetic": "ˈhæpən tu duː",
   "pos": "",
   "meaning": "碰巧做某事；碰巧干某事；碰巧发生某事"
  },
@@ -12559,13 +12559,13 @@
  },
  {
   "word": "hand up",
-  "phonetic": "英[hænd ʌp] 美[hænd ʌp]",
+  "phonetic": "hænd ʌp",
   "pos": "",
   "meaning": "n. a. 交给"
  },
  {
   "word": "look into",
-  "phonetic": "美[lʊk ˈɪntə]",
+  "phonetic": "lʊk ˈɪntə",
   "pos": "",
   "meaning": "n. a. 窥视"
  },
@@ -12577,13 +12577,13 @@
  },
  {
   "word": "for example",
-  "phonetic": "英[fɔ: iɡˈzɑ:mpl] 美[fɔr ɪɡˈzæmpəl]",
+  "phonetic": "fɔ: iɡˈzɑ:mpl fɔr ɪɡˈzæmpəl",
   "pos": "",
   "meaning": "n. a. 例如"
  },
  {
   "word": "manage to do",
-  "phonetic": "美[ˈmænɪdʒ tu duː]",
+  "phonetic": "ˈmænɪdʒ tu duː",
   "pos": "",
   "meaning": "设法做某事；设法做成某事；设法做成了某事"
  },
@@ -12595,7 +12595,7 @@
  },
  {
   "word": "bring up",
-  "phonetic": "美[brɪŋ ʌp]",
+  "phonetic": "brɪŋ ʌp",
   "pos": "",
   "meaning": "n. a. 抚养"
  },
@@ -12613,7 +12613,7 @@
  },
  {
   "word": "break into pieces",
-  "phonetic": "美[breɪk ˈɪntə ˈpiːsɪz]",
+  "phonetic": "breɪk ˈɪntə ˈpiːsɪz",
   "pos": "",
   "meaning": "n. a. 打碎"
  },
@@ -12631,31 +12631,31 @@
  },
  {
   "word": "fix up",
-  "phonetic": "美[fɪks ʌp]",
+  "phonetic": "fɪks ʌp",
   "pos": "",
   "meaning": "n. a. 〈美口〉修理"
  },
  {
   "word": "come to life",
-  "phonetic": "美[kʌm tu laɪf]",
+  "phonetic": "kʌm tu laɪf",
   "pos": "",
   "meaning": "n. a. 苏醒过来"
  },
  {
   "word": "build up",
-  "phonetic": "英[ˈbɪld ʌp] 美[ˈbɪld ʌp]",
+  "phonetic": "ˈbɪld ʌp",
   "pos": "",
   "meaning": "n. a. 同“build”"
  },
  {
   "word": "be good at",
-  "phonetic": "美[bi ɡʊd æt]",
+  "phonetic": "bi ɡʊd æt",
   "pos": "",
   "meaning": "v. 善于"
  },
  {
   "word": "keep healthy",
-  "phonetic": "美[kiːp ˈhelθi]",
+  "phonetic": "kiːp ˈhelθi",
   "pos": "",
   "meaning": "un. 保持健康"
  },
@@ -12673,25 +12673,25 @@
  },
  {
   "word": "come in",
-  "phonetic": "美[kʌm ɪn]",
+  "phonetic": "kʌm ɪn",
   "pos": "",
   "meaning": "n. a. 进入"
  },
  {
   "word": "do with",
-  "phonetic": "美[duː wɪð]",
+  "phonetic": "duː wɪð",
   "pos": "",
   "meaning": "n. a. 对付"
  },
  {
   "word": "instead of",
-  "phonetic": "英[ɪnˈsted əv] 美[ɪnˈsted əv]",
+  "phonetic": "ɪnˈsted əv",
   "pos": "prep",
   "meaning": "prep. 代替"
  },
  {
   "word": "leave a message",
-  "phonetic": "美[liːv ə ˈmesɪdʒ]",
+  "phonetic": "liːv ə ˈmesɪdʒ",
   "pos": "",
   "meaning": "n. a. 留话"
  },
@@ -12715,7 +12715,7 @@
  },
  {
   "word": "in no time",
-  "phonetic": "美[ɪn noʊ taɪm]",
+  "phonetic": "ɪn noʊ taɪm",
   "pos": "",
   "meaning": "n. a. 立刻"
  },
@@ -12739,25 +12739,25 @@
  },
  {
   "word": "make a suggestion",
-  "phonetic": "美[meɪk ə səˈdʒestʃn]",
+  "phonetic": "meɪk ə səˈdʒestʃn",
   "pos": "",
   "meaning": "n. a. 提议"
  },
  {
   "word": "be talented in",
-  "phonetic": "美[bi ˈtæləntɪd ɪn]",
+  "phonetic": "bi ˈtæləntɪd ɪn",
   "pos": "",
   "meaning": "无"
  },
  {
   "word": "get mad at",
-  "phonetic": "美[ɡet mæd æt]",
+  "phonetic": "ɡet mæd æt",
   "pos": "",
   "meaning": "无"
  },
  {
   "word": "in general",
-  "phonetic": "美[ɪn ˈdʒenrəl]",
+  "phonetic": "ɪn ˈdʒenrəl",
   "pos": "",
   "meaning": "n. a. 一般"
  },
@@ -12787,7 +12787,7 @@
  },
  {
   "word": "drop in",
-  "phonetic": "英[ˈdrɒp ɪn]",
+  "phonetic": "ˈdrɒp ɪn",
   "pos": "",
   "meaning": "(使)落进；(使)往里坍塌：；偶然(或顺便)走访(或访问)(on)；逐渐进入：；[口语](有选择地)加入；愿意(或决心)"
  },
@@ -12799,13 +12799,13 @@
  },
  {
   "word": "grow up",
-  "phonetic": "英[ɡrəʊ ʌp] 美[ɡroʊ ʌp]",
+  "phonetic": "ɡrəʊ ʌp ɡroʊ ʌp",
   "pos": "",
   "meaning": "n. a. 长大"
  },
  {
   "word": "be mad at",
-  "phonetic": "美[bi mæd æt]",
+  "phonetic": "bi mæd æt",
   "pos": "",
   "meaning": "n. a. 对…发怒"
  },
@@ -12829,7 +12829,7 @@
  },
  {
   "word": "get a ride",
-  "phonetic": "美[ɡet əraɪd]",
+  "phonetic": "ɡet əraɪd",
   "pos": "",
   "meaning": "搭车；搭便车；骑车"
  },
@@ -12895,31 +12895,31 @@
  },
  {
   "word": "have a picnic",
-  "phonetic": "美[hæv ə ˈpɪknɪk]",
+  "phonetic": "hæv ə ˈpɪknɪk",
   "pos": "",
   "meaning": "举行野餐；去野餐；吃野餐"
  },
  {
   "word": "chat with",
-  "phonetic": "美[tʃæt wɪð]",
+  "phonetic": "tʃæt wɪð",
   "pos": "",
   "meaning": "和…聊天；与…闲聊；与某人聊天"
  },
  {
   "word": "make up",
-  "phonetic": "英[ˈmeɪkʌp] 美[ˈmeɪk ʌp]",
+  "phonetic": "ˈmeɪkʌp ˈmeɪk ʌp",
   "pos": "",
   "meaning": "n. a. 弥补"
  },
  {
   "word": "catch up with",
-  "phonetic": "美[kætʃ ʌp wɪð; kætʃ ʌp wɪθ]",
+  "phonetic": "kætʃ ʌp wɪð; kætʃ ʌp wɪθ",
   "pos": "",
   "meaning": "v. 赶上"
  },
  {
   "word": "give up",
-  "phonetic": "美[ɡɪv ʌp]",
+  "phonetic": "ɡɪv ʌp",
   "pos": "",
   "meaning": "n. a. 放弃"
  },
@@ -12943,19 +12943,19 @@
  },
  {
   "word": "clear up",
-  "phonetic": "英[ˈklɪə ʌp]",
+  "phonetic": "ˈklɪə ʌp",
   "pos": "",
   "meaning": "n. a. 整顿"
  },
  {
   "word": "fall ill",
-  "phonetic": "美[fɔːl ɪl]",
+  "phonetic": "fɔːl ɪl",
   "pos": "",
   "meaning": "n. a. 病倒"
  },
  {
   "word": "from time to time",
-  "phonetic": "美[frəm taɪm tu taɪm]",
+  "phonetic": "frəm taɪm tu taɪm",
   "pos": "",
   "meaning": "n. a. 时时"
  },
@@ -12973,19 +12973,19 @@
  },
  {
   "word": "get into trouble",
-  "phonetic": "美[ɡet ˈɪntə ˈtrʌbl]",
+  "phonetic": "ɡet ˈɪntə ˈtrʌbl",
   "pos": "",
   "meaning": "n. a. 遇到麻烦"
  },
  {
   "word": "have a lesson",
-  "phonetic": "美[hæv ə ˈlesn]",
+  "phonetic": "hæv ə ˈlesn",
   "pos": "",
   "meaning": "n. a. 受教"
  },
  {
   "word": "keep out",
-  "phonetic": "美[kiːp aʊt]",
+  "phonetic": "kiːp aʊt",
   "pos": "",
   "meaning": "v. 防止进入；阻止；不参加"
  },
@@ -12997,13 +12997,13 @@
  },
  {
   "word": "develop a film",
-  "phonetic": "美[dɪˈveləp ə fɪlm]",
+  "phonetic": "dɪˈveləp ə fɪlm",
   "pos": "",
   "meaning": "无"
  },
  {
   "word": "help oneself",
-  "phonetic": "英[help wʌnˈself] 美[help wʌnˈself]",
+  "phonetic": "help wʌnˈself",
   "pos": "",
   "meaning": "un. 放荡不羁；实在山穷水尽；自救"
  },
@@ -13015,31 +13015,31 @@
  },
  {
   "word": "make a film",
-  "phonetic": "美[meɪk ə fɪlm]",
+  "phonetic": "meɪk ə fɪlm",
   "pos": "",
   "meaning": "拍电影；制作电影；排电影"
  },
  {
   "word": "die out",
-  "phonetic": "美[daɪ aʊt]",
+  "phonetic": "daɪ aʊt",
   "pos": "",
   "meaning": "n. a. 死绝"
  },
  {
   "word": "break out",
-  "phonetic": "美[breɪk aʊt]",
+  "phonetic": "breɪk aʊt",
   "pos": "",
   "meaning": "n. a. 起"
  },
  {
   "word": "be willing to do",
-  "phonetic": "美[bi ˈwɪlɪŋ tu duː]",
+  "phonetic": "bi ˈwɪlɪŋ tu duː",
   "pos": "",
   "meaning": "n. a. 乐意进行"
  },
  {
   "word": "discuss about",
-  "phonetic": "美[dɪˈskʌs əˈbaʊt]",
+  "phonetic": "dɪˈskʌs əˈbaʊt",
   "pos": "",
   "meaning": "讨论某事；讨论关于"
  },
@@ -13057,7 +13057,7 @@
  },
  {
   "word": "by the time",
-  "phonetic": "美[baɪ ðə taɪm]",
+  "phonetic": "baɪ ðə taɪm",
   "pos": "",
   "meaning": "n. a. 到…的时候"
  },
@@ -13099,13 +13099,13 @@
  },
  {
   "word": "enjoy oneself",
-  "phonetic": "美[ɪnˈdʒɔɪ wʌnˈself]",
+  "phonetic": "ɪnˈdʒɔɪ wʌnˈself",
   "pos": "",
   "meaning": "n. a. 过得快乐"
  },
  {
   "word": "make a decision",
-  "phonetic": "美[meɪk ə dɪˈsɪʒn]",
+  "phonetic": "meɪk ə dɪˈsɪʒn",
   "pos": "",
   "meaning": "做出决定；做决定；作出决定"
  },
@@ -13117,7 +13117,7 @@
  },
  {
   "word": "have a look at",
-  "phonetic": "美[hæv ə lʊk æt]",
+  "phonetic": "hæv ə lʊk æt",
   "pos": "",
   "meaning": "n. a. (仔细)看一看"
  },
@@ -13135,7 +13135,7 @@
  },
  {
   "word": "face to face",
-  "phonetic": "英[ˌfeɪs tə ˈfeɪs] 美[ˌfeɪs tə ˈfeɪs]",
+  "phonetic": "ˌfeɪs tə ˈfeɪs",
   "pos": "",
   "meaning": "n. a. 面对面"
  },
@@ -13147,7 +13147,7 @@
  },
  {
   "word": "green hand",
-  "phonetic": "美[ɡriːn hænd]",
+  "phonetic": "ɡriːn hænd",
   "pos": "n",
   "meaning": "n. 新手"
  },
@@ -13165,7 +13165,7 @@
  },
  {
   "word": "do well in",
-  "phonetic": "美[du wel ɪn]",
+  "phonetic": "du wel ɪn",
   "pos": "",
   "meaning": "擅长；在……方面做得好；在……干得好"
  },
@@ -13177,13 +13177,13 @@
  },
  {
   "word": "make out",
-  "phonetic": "美[meɪk aʊt]",
+  "phonetic": "meɪk aʊt",
   "pos": "",
   "meaning": "n. a. 理解"
  },
  {
   "word": "listen to",
-  "phonetic": "英[ˈlɪsn tʊ] 美[ˈlɪsn tu]",
+  "phonetic": "ˈlɪsn tʊ ˈlɪsn tu",
   "pos": "",
   "meaning": "v. 听"
  },
@@ -13195,7 +13195,7 @@
  },
  {
   "word": "look after",
-  "phonetic": "英[lʊk ˈɑːftə(r)] 美[lʊk ˈæftər]",
+  "phonetic": "lʊk ˈɑːftə(r) lʊk ˈæftər",
   "pos": "",
   "meaning": "n. a. 照看"
  },
@@ -13225,7 +13225,7 @@
  },
  {
   "word": "hang out",
-  "phonetic": "英[ˈhæŋ aʊt] 美[ˈhæŋ aʊt]",
+  "phonetic": "ˈhæŋ aʊt",
   "pos": "",
   "meaning": "n. a. 同“hang”"
  },
@@ -13237,7 +13237,7 @@
  },
  {
   "word": "be fed up with",
-  "phonetic": "美[bi fed ʌp wɪð]",
+  "phonetic": "bi fed ʌp wɪð",
   "pos": "",
   "meaning": "n. a. 吃…吃得过饱"
  },
@@ -13249,13 +13249,13 @@
  },
  {
   "word": "in red",
-  "phonetic": "美[ɪn red]",
+  "phonetic": "ɪn red",
   "pos": "",
   "meaning": "穿着红色的衣服；穿着红衣服；身穿红衣服"
  },
  {
   "word": "in this way",
-  "phonetic": "美[ɪn ðɪs weɪ]",
+  "phonetic": "ɪn ðɪs weɪ",
   "pos": "",
   "meaning": "n. a. 用这个办法"
  },
@@ -13291,13 +13291,13 @@
  },
  {
   "word": "keep a diary",
-  "phonetic": "美[kiːp ə ˈdaɪəri]",
+  "phonetic": "kiːp ə ˈdaɪəri",
   "pos": "",
   "meaning": "n. a. 记日记"
  },
  {
   "word": "in the end",
-  "phonetic": "美[ɪn ði end]",
+  "phonetic": "ɪn ði end",
   "pos": "",
   "meaning": "n. a. 终于"
  },
@@ -13309,7 +13309,7 @@
  },
  {
   "word": "end up",
-  "phonetic": "英[end ʌp] 美[end ʌp]",
+  "phonetic": "end ʌp",
   "pos": "",
   "meaning": "n. a. 结束"
  },
@@ -13321,19 +13321,19 @@
  },
  {
   "word": "keep quiet",
-  "phonetic": "美[kiːp ˈkwaɪət]",
+  "phonetic": "kiːp ˈkwaɪət",
   "pos": "",
   "meaning": "n. a. (对某事)保守秘密"
  },
  {
   "word": "even if",
-  "phonetic": "美[ˈiːvn ɪf]",
+  "phonetic": "ˈiːvn ɪf",
   "pos": "",
   "meaning": "n. a. 即使…也"
  },
  {
   "word": "cut down",
-  "phonetic": "英[ˌkʌt ˈdaʊn] 美[ˌkʌt ˈdaʊn]",
+  "phonetic": "ˌkʌt ˈdaʊn",
   "pos": "",
   "meaning": "n. a. 砍倒"
  },
@@ -13363,13 +13363,13 @@
  },
  {
   "word": "line up",
-  "phonetic": "英[ˈlaɪn ʌp] 美[ˈlaɪn ʌp]",
+  "phonetic": "ˈlaɪn ʌp",
   "pos": "",
   "meaning": "n. a. 整顿(机械等)"
  },
  {
   "word": "be pleased with",
-  "phonetic": "美[bi pliːzd wɪð]",
+  "phonetic": "bi pliːzd wɪð",
   "pos": "",
   "meaning": "n. a. 喜欢"
  },
@@ -13399,7 +13399,7 @@
  },
  {
   "word": "in English",
-  "phonetic": "美[ɪn ˈɪŋɡlɪʃ]",
+  "phonetic": "ɪn ˈɪŋɡlɪʃ",
   "pos": "",
   "meaning": "用英语；用英语说；用英语表达"
  },
@@ -13423,7 +13423,7 @@
  },
  {
   "word": "by oneself",
-  "phonetic": "美[baɪ wʌnˈself]",
+  "phonetic": "baɪ wʌnˈself",
   "pos": "",
   "meaning": "n. a. 单独"
  },
@@ -13435,7 +13435,7 @@
  },
  {
   "word": "look out",
-  "phonetic": "英[lʊk aʊt] 美[lʊk aʊt]",
+  "phonetic": "lʊk aʊt",
   "pos": "",
   "meaning": "n. a. 挑选"
  },
@@ -13459,19 +13459,19 @@
  },
  {
   "word": "in a loud voice",
-  "phonetic": "美[ɪn ə laʊd vɔɪs]",
+  "phonetic": "ɪn ə laʊd vɔɪs",
   "pos": "",
   "meaning": "高声地,大声地"
  },
  {
   "word": "less and less",
-  "phonetic": "美[les ənd les]",
+  "phonetic": "les ənd les",
   "pos": "",
   "meaning": "un. 扣去；越来越少"
  },
  {
   "word": "give a hand",
-  "phonetic": "美[ɡɪv ə hænd]",
+  "phonetic": "ɡɪv ə hænd",
   "pos": "",
   "meaning": "un. 制住；帮着干一点"
  },
@@ -13483,7 +13483,7 @@
  },
  {
   "word": "get down to",
-  "phonetic": "美[ɡet daʊn tu]",
+  "phonetic": "ɡet daʊn tu",
   "pos": "",
   "meaning": "v. 认真对待"
  },
@@ -13501,19 +13501,19 @@
  },
  {
   "word": "by the way",
-  "phonetic": "美[baɪ ðə weɪ]",
+  "phonetic": "baɪ ðə weɪ",
   "pos": "",
   "meaning": "n. a. 见 way 条"
  },
  {
   "word": "join in",
-  "phonetic": "美[dʒɔɪn ɪn]",
+  "phonetic": "dʒɔɪn ɪn",
   "pos": "",
   "meaning": "n. a. 参加"
  },
  {
   "word": "make a living",
-  "phonetic": "美[meɪk ə ˈlɪvɪŋ]",
+  "phonetic": "meɪk ə ˈlɪvɪŋ",
   "pos": "",
   "meaning": "谋生；度日；维持生计"
  },
@@ -13543,19 +13543,19 @@
  },
  {
   "word": "clean out",
-  "phonetic": "美[kliːn aʊt]",
+  "phonetic": "kliːn aʊt",
   "pos": "",
   "meaning": "n. a. 扫除干净"
  },
  {
   "word": "come to an end",
-  "phonetic": "美[kʌm tu ən end]",
+  "phonetic": "kʌm tu ən end",
   "pos": "",
   "meaning": "n. a. 完结"
  },
  {
   "word": "make the bed",
-  "phonetic": "美[meɪk ðə bed]",
+  "phonetic": "meɪk ðə bed",
   "pos": "",
   "meaning": "铺床；整理床铺；整理被物"
  },
@@ -13573,19 +13573,19 @@
  },
  {
   "word": "have a good time",
-  "phonetic": "美[hæv ə ɡʊd taɪm]",
+  "phonetic": "hæv ə ɡʊd taɪm",
   "pos": "",
   "meaning": "n. a. 过得愉快"
  },
  {
   "word": "get out",
-  "phonetic": "英[ˈɡet aʊt] 美[ɡet aʊt]",
+  "phonetic": "ˈɡet aʊt ɡet aʊt",
   "pos": "",
   "meaning": "n. a. 摆脱"
  },
  {
   "word": "come down",
-  "phonetic": "美[kʌm daʊn]",
+  "phonetic": "kʌm daʊn",
   "pos": "",
   "meaning": "n. a. 败落"
  },
@@ -13597,25 +13597,25 @@
  },
  {
   "word": "in public",
-  "phonetic": "美[ɪn ˈpʌblɪk]",
+  "phonetic": "ɪn ˈpʌblɪk",
   "pos": "",
   "meaning": "n. a. 公然"
  },
  {
   "word": "be up to",
-  "phonetic": "美[bi ʌp tu]",
+  "phonetic": "bi ʌp tu",
   "pos": "",
   "meaning": "un. 面对；在干；居心"
  },
  {
   "word": "keep secrets",
-  "phonetic": "美[kiːp ˈsiːkrət]",
+  "phonetic": "kiːp ˈsiːkrət",
   "pos": "",
   "meaning": "无"
  },
  {
   "word": "be used to do",
-  "phonetic": "美[bi juːzd tu duː]",
+  "phonetic": "bi juːzd tu duː",
   "pos": "",
   "meaning": "无"
  },
@@ -13633,13 +13633,13 @@
  },
  {
   "word": "fight about",
-  "phonetic": "美[faɪt əˈbaʊt]",
+  "phonetic": "faɪt əˈbaʊt",
   "pos": "",
   "meaning": "为……而斗争；争夺；关于……争吵"
  },
  {
   "word": "hand in",
-  "phonetic": "美[hænd ɪn]",
+  "phonetic": "hænd ɪn",
   "pos": "",
   "meaning": "n. a. 交进"
  },
@@ -13651,25 +13651,25 @@
  },
  {
   "word": "make money",
-  "phonetic": "美[meɪk ˈmʌni]",
+  "phonetic": "meɪk ˈmʌni",
   "pos": "",
   "meaning": "n. a. 赚钱"
  },
  {
   "word": "in groups",
-  "phonetic": "美[ɪn ɡruːps]",
+  "phonetic": "ɪn ɡruːps",
   "pos": "",
   "meaning": "n. a. 成群地"
  },
  {
   "word": "just then",
-  "phonetic": "美[dʒʌst ðen]",
+  "phonetic": "dʒʌst ðen",
   "pos": "",
   "meaning": "n. a. 正在那时"
  },
  {
   "word": "cut in line",
-  "phonetic": "美[kʌt ɪn laɪn]",
+  "phonetic": "kʌt ɪn laɪn",
   "pos": "",
   "meaning": "插队；插队等候；排队时插队"
  },
@@ -13687,7 +13687,7 @@
  },
  {
   "word": "check in",
-  "phonetic": "英[ˈtʃek ɪn] 美[ˈtʃek ɪn]",
+  "phonetic": "ˈtʃek ɪn",
   "pos": "",
   "meaning": "v. 〈美〉报到；(旅馆)登记"
  },
@@ -13717,7 +13717,7 @@
  },
  {
   "word": "bring out",
-  "phonetic": "美[brɪŋ aʊt]",
+  "phonetic": "brɪŋ aʊt",
   "pos": "",
   "meaning": "n. a. 公布"
  },
@@ -13747,13 +13747,13 @@
  },
  {
   "word": "hear about",
-  "phonetic": "美[hɪr əˈbaʊt]",
+  "phonetic": "hɪr əˈbaʊt",
   "pos": "",
   "meaning": "v. 得知；听到关于"
  },
  {
   "word": "get in",
-  "phonetic": "美[ɡet ɪn]",
+  "phonetic": "ɡet ɪn",
   "pos": "",
   "meaning": "n. a. 进入"
  },
@@ -13783,7 +13783,7 @@
  },
  {
   "word": "be interested in",
-  "phonetic": "美[bi ˈɪntrəstɪd ɪn; bi ˈɪntrestɪd ɪn]",
+  "phonetic": "bi ˈɪntrəstɪd ɪn; bi ˈɪntrestɪd ɪn",
   "pos": "",
   "meaning": "v. 对…感兴趣"
  },
@@ -13801,13 +13801,13 @@
  },
  {
   "word": "be linked to",
-  "phonetic": "美[bi lɪŋkt tu]",
+  "phonetic": "bi lɪŋkt tu",
   "pos": "",
   "meaning": "与…有联系；与…有关；与……相联系"
  },
  {
   "word": "hand in hand",
-  "phonetic": "美[hænd ɪn hænd]",
+  "phonetic": "hænd ɪn hænd",
   "pos": "",
   "meaning": "n. a. 手拉手"
  },
@@ -13831,31 +13831,31 @@
  },
  {
   "word": "clean up",
-  "phonetic": "英[ˈkliːn ʌp] 美[ˈkliːn ʌp]",
+  "phonetic": "ˈkliːn ʌp",
   "pos": "",
   "meaning": "n. a. 收拾干净"
  },
  {
   "word": "give back",
-  "phonetic": "美[ɡɪv bæk]",
+  "phonetic": "ɡɪv bæk",
   "pos": "",
   "meaning": "n. a. 归还"
  },
  {
   "word": "give out",
-  "phonetic": "美[ɡɪv aʊt]",
+  "phonetic": "ɡɪv aʊt",
   "pos": "",
   "meaning": "n. a. 发表"
  },
  {
   "word": "communicate with",
-  "phonetic": "美[kəˈmjuːnɪkeɪt wɪð]",
+  "phonetic": "kəˈmjuːnɪkeɪt wɪð",
   "pos": "",
   "meaning": "v. 联络"
  },
  {
   "word": "mean to do",
-  "phonetic": "美[miːn tu duː]",
+  "phonetic": "miːn tu duː",
   "pos": "",
   "meaning": "打算做某事；想要做某事；本意是想要做某事"
  },
@@ -13867,7 +13867,7 @@
  },
  {
   "word": "dry up",
-  "phonetic": "美[draɪ ʌp]",
+  "phonetic": "draɪ ʌp",
   "pos": "",
   "meaning": "n. a. 干涸"
  },
@@ -13879,13 +13879,13 @@
  },
  {
   "word": "divide into",
-  "phonetic": "美[dɪˈvaɪd ˈɪntu]",
+  "phonetic": "dɪˈvaɪd ˈɪntu",
   "pos": "",
   "meaning": "v. 分为"
  },
  {
   "word": "come out",
-  "phonetic": "美[kʌm aʊt]",
+  "phonetic": "kʌm aʊt",
   "pos": "",
   "meaning": "n. a. 出来"
  },
@@ -13897,7 +13897,7 @@
  },
  {
   "word": "hand out",
-  "phonetic": "美[hænd aʊt]",
+  "phonetic": "hænd aʊt",
   "pos": "",
   "meaning": "n. a. 分"
  },
@@ -13915,13 +13915,13 @@
  },
  {
   "word": "fall into",
-  "phonetic": "美[fɔːl ˈɪntə]",
+  "phonetic": "fɔːl ˈɪntə",
   "pos": "",
   "meaning": "n. a. 开始"
  },
  {
   "word": "in style",
-  "phonetic": "美[ɪn staɪl]",
+  "phonetic": "ɪn staɪl",
   "pos": "",
   "meaning": "n. a. 有样子"
  },
@@ -13933,13 +13933,13 @@
  },
  {
   "word": "get back",
-  "phonetic": "英[ɡet bæk] 美[ɡet bæk]",
+  "phonetic": "ɡet bæk",
   "pos": "",
   "meaning": "n. a. 取回"
  },
  {
   "word": "lead to",
-  "phonetic": "美[liːd tu]",
+  "phonetic": "liːd tu",
   "pos": "",
   "meaning": "n. a. 通向"
  },
@@ -13951,7 +13951,7 @@
  },
  {
   "word": "call the police",
-  "phonetic": "美[kɔːl ðə pəˈliːs]",
+  "phonetic": "kɔːl ðə pəˈliːs",
   "pos": "",
   "meaning": "报警；叫警察；打电话给警察"
  },
@@ -13963,7 +13963,7 @@
  },
  {
   "word": "by then",
-  "phonetic": "美[baɪ ðen]",
+  "phonetic": "baɪ ðen",
   "pos": "",
   "meaning": "n. a. 到那时"
  },
@@ -13981,7 +13981,7 @@
  },
  {
   "word": "jump off",
-  "phonetic": "英[ˈdʒʌmp ɒf]",
+  "phonetic": "ˈdʒʌmp ɒf",
   "pos": "",
   "meaning": "n. a. 【军】突然出动攻击"
  },
@@ -14017,7 +14017,7 @@
  },
  {
   "word": "have a meeting",
-  "phonetic": "美[hæv ə ˈmiːtɪŋ]",
+  "phonetic": "hæv ə ˈmiːtɪŋ",
   "pos": "",
   "meaning": "开会；开个会；开会的时间了"
  },
@@ -14029,13 +14029,13 @@
  },
  {
   "word": "be ready to do",
-  "phonetic": "美[bi ˈredi tu duː]",
+  "phonetic": "bi ˈredi tu duː",
   "pos": "",
   "meaning": "准备做某事；准备好做某事；为做某事做好了准备"
  },
  {
   "word": "know about",
-  "phonetic": "美[noʊ əˈbaʊt]",
+  "phonetic": "noʊ əˈbaʊt",
   "pos": "",
   "meaning": "v. 知道"
  },
@@ -14059,7 +14059,7 @@
  },
  {
   "word": "cheer up",
-  "phonetic": "美[tʃɪr ˈʌp]",
+  "phonetic": "tʃɪr ˈʌp",
   "pos": "",
   "meaning": "v. 鼓舞；振作一点"
  },
@@ -14113,7 +14113,7 @@
  },
  {
   "word": "keep in touch with",
-  "phonetic": "美[kiːp ɪn tʌtʃ wɪð]",
+  "phonetic": "kiːp ɪn tʌtʃ wɪð",
   "pos": "",
   "meaning": "v. 与…保持接触"
  },
@@ -14125,19 +14125,19 @@
  },
  {
   "word": "get up",
-  "phonetic": "英[ɡet ʌp] 美[ɡet ʌp]",
+  "phonetic": "ɡet ʌp",
   "pos": "",
   "meaning": "n. a. 起床"
  },
  {
   "word": "in case",
-  "phonetic": "美[ɪn keɪs]",
+  "phonetic": "ɪn keɪs",
   "pos": "",
   "meaning": "n. a. 以防万一"
  },
  {
   "word": "find out",
-  "phonetic": "美[faɪnd aʊt]",
+  "phonetic": "faɪnd aʊt",
   "pos": "",
   "meaning": "n. a. 查出"
  },
@@ -14149,7 +14149,7 @@
  },
  {
   "word": "give a talk",
-  "phonetic": "美[ɡɪv ə tɔːk]",
+  "phonetic": "ɡɪv ə tɔːk",
   "pos": "",
   "meaning": "作报告；做报告；演讲"
  },
@@ -14179,7 +14179,7 @@
  },
  {
   "word": "get away",
-  "phonetic": "美[ɡet əˈweɪ]",
+  "phonetic": "ɡet əˈweɪ",
   "pos": "",
   "meaning": "n. a. 逃脱"
  },
@@ -14191,7 +14191,7 @@
  },
  {
   "word": "how soon",
-  "phonetic": "美[haʊ suːn]",
+  "phonetic": "haʊ suːn",
   "pos": "",
   "meaning": "多久；多快；多久以后"
  },
@@ -14203,7 +14203,7 @@
  },
  {
   "word": "look like",
-  "phonetic": "美[lʊk laɪk]",
+  "phonetic": "lʊk laɪk",
   "pos": "",
   "meaning": "看起来与（某人或某物）相像[相似]; 很可能出现[引起]（某事、做某事）; 伣; 似"
  },
@@ -14215,7 +14215,7 @@
  },
  {
   "word": "lived by",
-  "phonetic": "美[lɪv baɪ]",
+  "phonetic": "lɪv baɪ",
   "pos": "",
   "meaning": "n. a. 靠…为生"
  },
@@ -14239,7 +14239,7 @@
  },
  {
   "word": "make faces",
-  "phonetic": "美[meɪk ˈfeɪsɪz]",
+  "phonetic": "meɪk ˈfeɪsɪz",
   "pos": "",
   "meaning": "n. a. 做苦脸"
  },
@@ -14251,13 +14251,13 @@
  },
  {
   "word": "go over",
-  "phonetic": "英[ɡəʊ ˈəʊvə(r)] 美[ɡoʊ ˈoʊvər]",
+  "phonetic": "ɡəʊ ˈəʊvə(r) ɡoʊ ˈoʊvər",
   "pos": "",
   "meaning": "n. a. 仔细查看"
  },
  {
   "word": "fall in love with",
-  "phonetic": "美[fɔːl ɪn lʌv wɪð]",
+  "phonetic": "fɔːl ɪn lʌv wɪð",
   "pos": "",
   "meaning": "n. a. 爱上"
  },
@@ -14269,7 +14269,7 @@
  },
  {
   "word": "break up",
-  "phonetic": "英[ˈbreɪk ʌp] 美[ˈbreɪk ʌp]",
+  "phonetic": "ˈbreɪk ʌp",
   "pos": "",
   "meaning": "v. 拆散；打碎；剖割(兽体等)；破坏"
  },
@@ -14287,7 +14287,7 @@
  },
  {
   "word": "die from",
-  "phonetic": "美[daɪ frəm]",
+  "phonetic": "daɪ frəm",
   "pos": "",
   "meaning": "n. a. 因伤致死"
  },
@@ -14299,7 +14299,7 @@
  },
  {
   "word": "fill in",
-  "phonetic": "美[fɪl ɪn]",
+  "phonetic": "fɪl ɪn",
   "pos": "",
   "meaning": "n. a. 填充"
  },
@@ -14323,7 +14323,7 @@
  },
  {
   "word": "hang up",
-  "phonetic": "英[ˈhæŋ ʌp] 美[hæŋ ʌp]",
+  "phonetic": "ˈhæŋ ʌp hæŋ ʌp",
   "pos": "",
   "meaning": "v. 挂断电话；挂机；悬挂；耽搁"
  },
@@ -14335,7 +14335,7 @@
  },
  {
   "word": "in a mess",
-  "phonetic": "美[ɪn ə mes]",
+  "phonetic": "ɪn ə mes",
   "pos": "",
   "meaning": "n. a. 肮脏"
  },
@@ -14347,7 +14347,7 @@
  },
  {
   "word": "meet with",
-  "phonetic": "美[miːt wɪð]",
+  "phonetic": "miːt wɪð",
   "pos": "",
   "meaning": "n. a. 碰见"
  },
@@ -14359,7 +14359,7 @@
  },
  {
   "word": "get used to doing",
-  "phonetic": "美[ɡet juːzd tu ˈduːɪŋ]",
+  "phonetic": "ɡet juːzd tu ˈduːɪŋ",
   "pos": "",
   "meaning": "无"
  },
@@ -14377,13 +14377,13 @@
  },
  {
   "word": "how many",
-  "phonetic": "美[haʊ ˈmeni]",
+  "phonetic": "haʊ ˈmeni",
   "pos": "",
   "meaning": "n. a. 多少"
  },
  {
   "word": "begin with",
-  "phonetic": "美[bɪˈɡɪn wɪð]",
+  "phonetic": "bɪˈɡɪn wɪð",
   "pos": "",
   "meaning": "n. a. 从…开始"
  },
@@ -14395,7 +14395,7 @@
  },
  {
   "word": "be ill in bed",
-  "phonetic": "美[bi ɪl ɪn bed]",
+  "phonetic": "bi ɪl ɪn bed",
   "pos": "",
   "meaning": "无"
  },
@@ -14407,13 +14407,13 @@
  },
  {
   "word": "stay healthy",
-  "phonetic": "美[steɪ ˈhelθi]",
+  "phonetic": "steɪ ˈhelθi",
   "pos": "",
   "meaning": "保持健康；保持身体健康；健康保持"
  },
  {
   "word": "look for",
-  "phonetic": "英[ˈlʊk fɔː(r)] 美[ˈlʊk fɔːr]",
+  "phonetic": "ˈlʊk fɔː(r) ˈlʊk fɔːr",
   "pos": "",
   "meaning": "v. 寻找；探索；渴望；盼望"
  },
@@ -14449,19 +14449,19 @@
  },
  {
   "word": "get together",
-  "phonetic": "英[ˈɡet təɡeðə(r)]",
+  "phonetic": "ˈɡet təɡeðə(r)",
   "pos": "",
   "meaning": "n. a. 聚集"
  },
  {
   "word": "look at",
-  "phonetic": "美[lʊk æt]",
+  "phonetic": "lʊk æt",
   "pos": "",
   "meaning": "n. a. 看"
  },
  {
   "word": "lose weight",
-  "phonetic": "美[luːz weɪt]",
+  "phonetic": "luːz weɪt",
   "pos": "",
   "meaning": "un. 体重减轻"
  },
@@ -14491,13 +14491,13 @@
  },
  {
   "word": "keep up with",
-  "phonetic": "美[kiːp ʌp wɪð]",
+  "phonetic": "kiːp ʌp wɪð",
   "pos": "",
   "meaning": "n. a. 不落后"
  },
  {
   "word": "come true",
-  "phonetic": "英[kʌm truː] 美[kʌm truː]",
+  "phonetic": "kʌm truː",
   "pos": "",
   "meaning": "n. a. (预言等)成事实"
  },
@@ -14515,7 +14515,7 @@
  },
  {
   "word": "get in the way",
-  "phonetic": "美[ɡet ɪn ðə weɪ]",
+  "phonetic": "ɡet ɪn ðə weɪ",
   "pos": "",
   "meaning": "n. a. 妨碍"
  },
@@ -14527,7 +14527,7 @@
  },
  {
   "word": "in safety",
-  "phonetic": "美[ɪn ˈseɪfti]",
+  "phonetic": "ɪn ˈseɪfti",
   "pos": "",
   "meaning": "n. a. 平安地"
  },
@@ -14545,7 +14545,7 @@
  },
  {
   "word": "calm down",
-  "phonetic": "美[kɑːm daʊn]",
+  "phonetic": "kɑːm daʊn",
   "pos": "",
   "meaning": "n. a. 平静下来"
  },
@@ -14563,7 +14563,7 @@
  },
  {
   "word": "dress up",
-  "phonetic": "英[dres ʌp] 美[dres ʌp]",
+  "phonetic": "dres ʌp",
   "pos": "",
   "meaning": "n. a. 乔装"
  },
@@ -14587,7 +14587,7 @@
  },
  {
   "word": "live in",
-  "phonetic": "英[ˈlɪv ɪn] 美[ˈlɪv ɪn]",
+  "phonetic": "ˈlɪv ɪn",
   "pos": "",
   "meaning": "n. a. 住进"
  },
@@ -14599,7 +14599,7 @@
  },
  {
   "word": "let down",
-  "phonetic": "英[ˈlet daʊn] 美[ˈlet daʊn]",
+  "phonetic": "ˈlet daʊn",
   "pos": "",
   "meaning": "n. a. 使失望"
  },
@@ -14641,13 +14641,13 @@
  },
  {
   "word": "deal with",
-  "phonetic": "美[diːl wɪð]",
+  "phonetic": "diːl wɪð",
   "pos": "",
   "meaning": "n. a. 办理"
  },
  {
   "word": "have fun",
-  "phonetic": "英[hæv fʌn] 美[hæv fʌn]",
+  "phonetic": "hæv fʌn",
   "pos": "",
   "meaning": "n. a. 作乐"
  },
@@ -14665,7 +14665,7 @@
  },
  {
   "word": "fall behind",
-  "phonetic": "美[fɔːl bɪˈhaɪnd]",
+  "phonetic": "fɔːl bɪˈhaɪnd",
   "pos": "",
   "meaning": "n. a. 落后"
  },
@@ -14677,7 +14677,7 @@
  },
  {
   "word": "climb up",
-  "phonetic": "美[klaɪm ʌp]",
+  "phonetic": "klaɪm ʌp",
   "pos": "",
   "meaning": "n. a. 攀登"
  },
@@ -14695,7 +14695,7 @@
  },
  {
   "word": "go ahead",
-  "phonetic": "英[ˈɡəʊ əhed]",
+  "phonetic": "ˈɡəʊ əhed",
   "pos": "",
   "meaning": "n. a. 取得进展"
  },
@@ -14713,7 +14713,7 @@
  },
  {
   "word": "have a rest",
-  "phonetic": "英[hæv ə rest] 美[hæv ərest]",
+  "phonetic": "hæv ə rest hæv ərest",
   "pos": "",
   "meaning": "v. 休息一下"
  },
@@ -14725,13 +14725,13 @@
  },
  {
   "word": "carry on",
-  "phonetic": "英[ˈkæri ɒn]",
+  "phonetic": "ˈkæri ɒn",
   "pos": "adj",
   "meaning": "adj. (飞机乘客的行李)可随身携带的；n. (飞机乘客的)随身行李"
  },
  {
   "word": "be used to doing",
-  "phonetic": "美[bi juːzd tu ˈduːɪŋ]",
+  "phonetic": "bi juːzd tu ˈduːɪŋ",
   "pos": "",
   "meaning": "无"
  },
@@ -14743,19 +14743,19 @@
  },
  {
   "word": "graduate from",
-  "phonetic": "美[ˈɡrædʒuət frəm]",
+  "phonetic": "ˈɡrædʒuət frəm",
   "pos": "",
   "meaning": "v. 毕业于"
  },
  {
   "word": "in trouble",
-  "phonetic": "美[ɪn ˈtrʌbl]",
+  "phonetic": "ɪn ˈtrʌbl",
   "pos": "",
   "meaning": "n. a. 为难"
  },
  {
   "word": "in time",
-  "phonetic": "美[ɪn taɪm]",
+  "phonetic": "ɪn taɪm",
   "pos": "",
   "meaning": "n. a. 经过一段时间以后"
  },
@@ -14767,13 +14767,13 @@
  },
  {
   "word": "end up with",
-  "phonetic": "美[end ʌp wɪð]",
+  "phonetic": "end ʌp wɪð",
   "pos": "",
   "meaning": "n. a. 以…而告终"
  },
  {
   "word": "look through",
-  "phonetic": "美[lʊk θruː]",
+  "phonetic": "lʊk θruː",
   "pos": "",
   "meaning": "n. a. 浏览"
  },
@@ -14821,7 +14821,7 @@
  },
  {
   "word": "in addition",
-  "phonetic": "美[ɪn əˈdɪʃn]",
+  "phonetic": "ɪn əˈdɪʃn",
   "pos": "",
   "meaning": "n. a. 加之"
  },
@@ -14839,13 +14839,13 @@
  },
  {
   "word": "laugh at",
-  "phonetic": "美[læf æt]",
+  "phonetic": "læf æt",
   "pos": "",
   "meaning": "n. a. 嘲笑"
  },
  {
   "word": "eat up",
-  "phonetic": "美[iːt ʌp]",
+  "phonetic": "iːt ʌp",
   "pos": "",
   "meaning": "n. a. 吃完"
  },
@@ -14869,7 +14869,7 @@
  },
  {
   "word": "carry out",
-  "phonetic": "英[ˈkæri aʊt] 美[ˈkæri aʊt]",
+  "phonetic": "ˈkæri aʊt",
   "pos": "",
   "meaning": "n. a. 实行"
  },
@@ -14887,7 +14887,7 @@
  },
  {
   "word": "in all",
-  "phonetic": "美[ɪn ɔːl]",
+  "phonetic": "ɪn ɔːl",
   "pos": "",
   "meaning": "n. a. 总计"
  },
@@ -14899,7 +14899,7 @@
  },
  {
   "word": "hold up",
-  "phonetic": "英[ˈhəʊld ʌp]",
+  "phonetic": "ˈhəʊld ʌp",
   "pos": "",
   "meaning": "n. 抢劫"
  },
@@ -14911,7 +14911,7 @@
  },
  {
   "word": "have a break",
-  "phonetic": "美[hæv ə breɪk]",
+  "phonetic": "hæv ə breɪk",
   "pos": "",
   "meaning": "v. 休息一下"
  },
@@ -14923,7 +14923,7 @@
  },
  {
   "word": "lend to",
-  "phonetic": "美[lend tu]",
+  "phonetic": "lend tu",
   "pos": "",
   "meaning": "un. 贡献:"
  },
@@ -14935,7 +14935,7 @@
  },
  {
   "word": "light up",
-  "phonetic": "美[laɪt ʌp]",
+  "phonetic": "laɪt ʌp",
   "pos": "",
   "meaning": "n. a. 点灯"
  },
@@ -14965,37 +14965,37 @@
  },
  {
   "word": "check out",
-  "phonetic": "英[tʃek aʊt] 美[tʃek aʊt]",
+  "phonetic": "tʃek aʊt",
   "pos": "",
   "meaning": "n. a. 开支票(提款)"
  },
  {
   "word": "cut off",
-  "phonetic": "英[ˈkʌt ɒf]",
+  "phonetic": "ˈkʌt ɒf",
   "pos": "",
   "meaning": "n. a. 削除"
  },
  {
   "word": "break the rule",
-  "phonetic": "美[breɪk ðə ruːl]",
+  "phonetic": "breɪk ðə ruːl",
   "pos": "",
   "meaning": "违反规定；违反规则；打破规则"
  },
  {
   "word": "get dressed",
-  "phonetic": "英[ɡet drest] 美[ɡet drest]",
+  "phonetic": "ɡet drest",
   "pos": "",
   "meaning": "v. 穿衣服"
  },
  {
   "word": "by accident",
-  "phonetic": "美[baɪ ˈæksɪdənt]",
+  "phonetic": "baɪ ˈæksɪdənt",
   "pos": "",
   "meaning": "n. a. 偶然 (opp. on purpose)"
  },
  {
   "word": "give in",
-  "phonetic": "美[ɡɪv ɪn]",
+  "phonetic": "ɡɪv ɪn",
   "pos": "",
   "meaning": "n. a. 让步"
  },
@@ -15013,13 +15013,13 @@
  },
  {
   "word": "sell out",
-  "phonetic": "英[ˈsel aʊt] 美[ˈsel aʊt]",
+  "phonetic": "ˈsel aʊt",
   "pos": "",
   "meaning": "n. a. 卖完"
  },
  {
   "word": "ring up",
-  "phonetic": "美[rɪŋ ʌp]",
+  "phonetic": "rɪŋ ʌp",
   "pos": "",
   "meaning": "v. 在收款机上结算；一段时间内收入或损失的钱；打电话给"
  },
@@ -15031,13 +15031,13 @@
  },
  {
   "word": "nothing but",
-  "phonetic": "美[ˈnʌθɪŋ bʌt]",
+  "phonetic": "ˈnʌθɪŋ bʌt",
   "pos": "",
   "meaning": "n. a. 不外"
  },
  {
   "word": "stay away from",
-  "phonetic": "美[steɪ əˈweɪ frəm]",
+  "phonetic": "steɪ əˈweɪ frəm",
   "pos": "",
   "meaning": "un. 退避三舍；回避；不要到…去；停止和…交往"
  },
@@ -15049,7 +15049,7 @@
  },
  {
   "word": "take it easy",
-  "phonetic": "美[teɪk ɪt ˈiːzi]",
+  "phonetic": "teɪk ɪt ˈiːzi",
   "pos": "",
   "meaning": "n. a. “take things easy”的变体"
  },
@@ -15073,13 +15073,13 @@
  },
  {
   "word": "put away",
-  "phonetic": "美[pʊt əˈweɪ]",
+  "phonetic": "pʊt əˈweɪ",
   "pos": "",
   "meaning": "v. 把…收起来；储存"
  },
  {
   "word": "see a film",
-  "phonetic": "美[siː ə fɪlm]",
+  "phonetic": "siː ə fɪlm",
   "pos": "",
   "meaning": "看电影；去看电影；去电影院看电影"
  },
@@ -15103,7 +15103,7 @@
  },
  {
   "word": "run off",
-  "phonetic": "英[ˈrʌn ɒf]",
+  "phonetic": "ˈrʌn ɒf",
   "pos": "",
   "meaning": "n. a. 逃走"
  },
@@ -15115,13 +15115,13 @@
  },
  {
   "word": "try out",
-  "phonetic": "美[traɪ aʊt]",
+  "phonetic": "traɪ aʊt",
   "pos": "",
   "meaning": "n. a. (采用前)严密试验"
  },
  {
   "word": "say to oneself",
-  "phonetic": "美[seɪ tu wʌnˈself]",
+  "phonetic": "seɪ tu wʌnˈself",
   "pos": "",
   "meaning": "心里想到"
  },
@@ -15133,7 +15133,7 @@
  },
  {
   "word": "wake up",
-  "phonetic": "英[ˈweɪk ˌʌp] 美[ˈweɪk ˌʌp]",
+  "phonetic": "ˈweɪk ˌʌp",
   "pos": "",
   "meaning": "n. a. 同“wake”"
  },
@@ -15163,7 +15163,7 @@
  },
  {
   "word": "stand by",
-  "phonetic": "美[stænd baɪ]",
+  "phonetic": "stænd baɪ",
   "pos": "",
   "meaning": "n. a. 袖手旁观"
  },
@@ -15175,7 +15175,7 @@
  },
  {
   "word": "set up",
-  "phonetic": "英[ˈset ʌp] 美[set ʌp]",
+  "phonetic": "ˈset ʌp set ʌp",
   "pos": "",
   "meaning": "n. a. 建立"
  },
@@ -15199,7 +15199,7 @@
  },
  {
   "word": "turn on",
-  "phonetic": "英[tɜ:n ɒn] 美[tɜːrn ɑːn]",
+  "phonetic": "tɜ:n ɒn tɜːrn ɑːn",
   "pos": "",
   "meaning": "n. a. 转向"
  },
@@ -15211,19 +15211,19 @@
  },
  {
   "word": "take an exam",
-  "phonetic": "美[teɪk ən ɪɡˈzæm]",
+  "phonetic": "teɪk ən ɪɡˈzæm",
   "pos": "",
   "meaning": "参加考试；应试；进行考试"
  },
  {
   "word": "tell a story",
-  "phonetic": "美[tel ə ˈstɔːri]",
+  "phonetic": "tel ə ˈstɔːri",
   "pos": "",
   "meaning": "讲故事；说故事；讲述故事"
  },
  {
   "word": "to some extent",
-  "phonetic": "美[tu səm ɪkˈstent]",
+  "phonetic": "tu səm ɪkˈstent",
   "pos": "",
   "meaning": "n. a. 在某种程度上"
  },
@@ -15259,7 +15259,7 @@
  },
  {
   "word": "take an interest in",
-  "phonetic": "美[teɪk ən ˈɪntrəst ɪn]",
+  "phonetic": "teɪk ən ˈɪntrəst ɪn",
   "pos": "",
   "meaning": "n. a. 对…感兴趣"
  },
@@ -15271,7 +15271,7 @@
  },
  {
   "word": "put up with",
-  "phonetic": "美[pʊt ʌp wɪð]",
+  "phonetic": "pʊt ʌp wɪð",
   "pos": "",
   "meaning": "n. a. 忍住"
  },
@@ -15283,13 +15283,13 @@
  },
  {
   "word": "shut up",
-  "phonetic": "英[ʃʌt ʌp] 美[ʃʌt ʌp]",
+  "phonetic": "ʃʌt ʌp",
   "pos": "",
   "meaning": "n. a. 关住"
  },
  {
   "word": "wash up",
-  "phonetic": "英[ˈwɒʃ.ʌp] 美[ ˈwɑːʃ.ʌp]",
+  "phonetic": "ˈwɒʃ.ʌp ˈwɑːʃ.ʌp",
   "pos": "",
   "meaning": "n. a. 饭后洗碗"
  },
@@ -15313,7 +15313,7 @@
  },
  {
   "word": "one by one",
-  "phonetic": "美[wʌn baɪ wʌn]",
+  "phonetic": "wʌn baɪ wʌn",
   "pos": "",
   "meaning": "n. a. 一个一个"
  },
@@ -15331,19 +15331,19 @@
  },
  {
   "word": "step by step",
-  "phonetic": "美[step baɪ step]",
+  "phonetic": "step baɪ step",
   "pos": "",
   "meaning": "n. a. 一步一步"
  },
  {
   "word": "put out",
-  "phonetic": "美[pʊt aʊt]",
+  "phonetic": "pʊt aʊt",
   "pos": "",
   "meaning": "v. 扑灭；熄灭；放出；伸出"
  },
  {
   "word": "put down",
-  "phonetic": "英[ˈpʊt daʊn] 美[pʊt daʊn]",
+  "phonetic": "ˈpʊt daʊn pʊt daʊn",
   "pos": "",
   "meaning": "n. a. 平定"
  },
@@ -15355,19 +15355,19 @@
  },
  {
   "word": "turn left",
-  "phonetic": "英[tɜ:n left] 美[tɝ​n lɛft]",
+  "phonetic": "tɜ:n left tɝ​n lɛft",
   "pos": "",
   "meaning": "un. 向左转"
  },
  {
   "word": "take place",
-  "phonetic": "美[teɪk pleɪs]",
+  "phonetic": "teɪk pleɪs",
   "pos": "",
   "meaning": "n. a. 发生"
  },
  {
   "word": "next to",
-  "phonetic": "美[ˈnekst tu]",
+  "phonetic": "ˈnekst tu",
   "pos": "prep",
   "meaning": "prep. 紧邻"
  },
@@ -15385,7 +15385,7 @@
  },
  {
   "word": "rush hour",
-  "phonetic": "英[ˈrʌʃ aʊə(r)]",
+  "phonetic": "ˈrʌʃ aʊə(r)",
   "pos": "n",
   "meaning": "n. (上,下班的)高峰期"
  },
@@ -15433,7 +15433,7 @@
  },
  {
   "word": "out of work",
-  "phonetic": "英[ˌaʊt əv ˈwɜːk]",
+  "phonetic": "ˌaʊt əv ˈwɜːk",
   "pos": "",
   "meaning": "n. a. 失业"
  },
@@ -15457,7 +15457,7 @@
  },
  {
   "word": "turn off",
-  "phonetic": "英[tɜ:n ɒf] 美[tɜːrn ɔ:f]",
+  "phonetic": "tɜ:n ɒf tɜːrn ɔ:f",
   "pos": "",
   "meaning": "v. 关掉"
  },
@@ -15499,7 +15499,7 @@
  },
  {
   "word": "mix up",
-  "phonetic": "英[ˈmɪks ʌp] 美[ˈmɪks ʌp]",
+  "phonetic": "ˈmɪks ʌp",
   "pos": "",
   "meaning": "n. a. 调匀"
  },
@@ -15523,13 +15523,13 @@
  },
  {
   "word": "three times a week",
-  "phonetic": "美[θriː taɪmz ə wiːk]",
+  "phonetic": "θriː taɪmz ə wiːk",
   "pos": "",
   "meaning": "一周三次；每周三次；一星期三次"
  },
  {
   "word": "up and down",
-  "phonetic": "英[ʌp ən daʊn] 美[ʌp ənd daʊn]",
+  "phonetic": "ʌp ən daʊn ʌp ənd daʊn",
   "pos": "",
   "meaning": "n. a. 忽上忽下"
  },
@@ -15547,19 +15547,19 @@
  },
  {
   "word": "talk about",
-  "phonetic": "美[tɔːk əˈbaʊt]",
+  "phonetic": "tɔːk əˈbaʊt",
   "pos": "",
   "meaning": "n. a. 讲(某事)"
  },
  {
   "word": "put up",
-  "phonetic": "美[pʊt ʌp]",
+  "phonetic": "pʊt ʌp",
   "pos": "",
   "meaning": "提供；建造；举起；提高；推举，提名；供给…住宿；直接行动"
  },
  {
   "word": "right away",
-  "phonetic": "美[raɪt əˈweɪ]",
+  "phonetic": "raɪt əˈweɪ",
   "pos": "",
   "meaning": "n. a. 立刻"
  },
@@ -15571,13 +15571,13 @@
  },
  {
   "word": "take in",
-  "phonetic": "美[teɪk ɪn]",
+  "phonetic": "teɪk ɪn",
   "pos": "",
   "meaning": "n. a. 加以考虑"
  },
  {
   "word": "take back",
-  "phonetic": "美[teɪk bæk]",
+  "phonetic": "teɪk bæk",
   "pos": "",
   "meaning": "n. a. 退回"
  },
@@ -15595,7 +15595,7 @@
  },
  {
   "word": "pull out",
-  "phonetic": "英[ˈpʊl aʊt] 美[ˈpʊl aʊt]",
+  "phonetic": "ˈpʊl aʊt",
   "pos": "",
   "meaning": "n. a. 拔(牙等)"
  },
@@ -15619,31 +15619,31 @@
  },
  {
   "word": "treat with",
-  "phonetic": "美[triːt wɪð]",
+  "phonetic": "triːt wɪð",
   "pos": "",
   "meaning": "un. 谈判；磋商:"
  },
  {
   "word": "more than",
-  "phonetic": "英[mɔː(r) ðæn] 美[mɔːr ðæn]",
+  "phonetic": "mɔː(r) ðæn mɔːr ðæn",
   "pos": "",
   "meaning": "n. a. …以上"
  },
  {
   "word": "wait in line",
-  "phonetic": "美[weɪt ɪn laɪn]",
+  "phonetic": "weɪt ɪn laɪn",
   "pos": "",
   "meaning": "v. 排队等待"
  },
  {
   "word": "take pride in",
-  "phonetic": "美[teɪk praɪd ɪn]",
+  "phonetic": "teɪk praɪd ɪn",
   "pos": "",
   "meaning": "n. a. 以…自豪"
  },
  {
   "word": "sit down",
-  "phonetic": "英[ˈsɪt daʊn] 美[ˈsɪt daʊn]",
+  "phonetic": "ˈsɪt daʊn",
   "pos": "",
   "meaning": "n. a. 坐下"
  },
@@ -15655,7 +15655,7 @@
  },
  {
   "word": "over there",
-  "phonetic": "英['əʊvə(r) ðeə(r)] 美[ˈəʊvər ðer]",
+  "phonetic": "'əʊvə(r) ðeə(r) ˈəʊvər ðer",
   "pos": "",
   "meaning": "n. a. 在那边"
  },
@@ -15679,7 +15679,7 @@
  },
  {
   "word": "take away",
-  "phonetic": "美[teɪk əˈweɪ]",
+  "phonetic": "teɪk əˈweɪ",
   "pos": "adj",
   "meaning": "adj. 买回去的"
  },
@@ -15715,7 +15715,7 @@
  },
  {
   "word": "turn up",
-  "phonetic": "英[ˈtɜːn ʌp] 美[ˈtɜːrn ʌp]",
+  "phonetic": "ˈtɜːn ʌp ˈtɜːrn ʌp",
   "pos": "",
   "meaning": "v. 朝上翻；出现"
  },
@@ -15733,7 +15733,7 @@
  },
  {
   "word": "think out",
-  "phonetic": "美[θɪŋk aʊt]",
+  "phonetic": "θɪŋk aʊt",
   "pos": "",
   "meaning": "n. a. 想透"
  },
@@ -15775,13 +15775,13 @@
  },
  {
   "word": "speed up",
-  "phonetic": "美[spiːd ʌp]",
+  "phonetic": "spiːd ʌp",
   "pos": "",
   "meaning": "n. a. 加快(机器等的)速度"
  },
  {
   "word": "think about",
-  "phonetic": "美[θɪŋk əˈbaʊt]",
+  "phonetic": "θɪŋk əˈbaʊt",
   "pos": "",
   "meaning": "un. 思考；探讨；为…费心思；想像"
  },
@@ -15793,7 +15793,7 @@
  },
  {
   "word": "set off",
-  "phonetic": "英[set ɒf]",
+  "phonetic": "set ɒf",
   "pos": "",
   "meaning": "n. a. 分"
  },
@@ -15805,7 +15805,7 @@
  },
  {
   "word": "pay off",
-  "phonetic": "英[ˈpeɪ ɒf]",
+  "phonetic": "ˈpeɪ ɒf",
   "pos": "",
   "meaning": "n. a. 偿清(债务等)"
  },
@@ -15835,13 +15835,13 @@
  },
  {
   "word": "take a risk",
-  "phonetic": "美[teɪk ərɪsk]",
+  "phonetic": "teɪk ərɪsk",
   "pos": "",
   "meaning": "n. a. 冒险"
  },
  {
   "word": "sound like",
-  "phonetic": "美[saʊnd laɪk]",
+  "phonetic": "saʊnd laɪk",
   "pos": "",
   "meaning": "听起来像；听起来象；听看来像"
  },
@@ -15853,13 +15853,13 @@
  },
  {
   "word": "shake hands with",
-  "phonetic": "美[ʃeɪk hændz wɪð]",
+  "phonetic": "ʃeɪk hændz wɪð",
   "pos": "",
   "meaning": "与…握手；与某人握手；和……握手"
  },
  {
   "word": "would like to",
-  "phonetic": "美[wʊd laɪk tu]",
+  "phonetic": "wʊd laɪk tu",
   "pos": "",
   "meaning": "v. 将乐意"
  },
@@ -15877,7 +15877,7 @@
  },
  {
   "word": "pull down",
-  "phonetic": "英[ˈpʊl daʊn] 美[ˈpʊl daʊn]",
+  "phonetic": "ˈpʊl daʊn",
   "pos": "",
   "meaning": "n. a. 挣钱"
  },
@@ -15925,13 +15925,13 @@
  },
  {
   "word": "once in a while",
-  "phonetic": "美[wʌns ɪn ə waɪl]",
+  "phonetic": "wʌns ɪn ə waɪl",
   "pos": "",
   "meaning": "偶尔；有时（等于every once in a while）"
  },
  {
   "word": "with one voice",
-  "phonetic": "美[wɪð wʌn vɔɪs]",
+  "phonetic": "wɪð wʌn vɔɪs",
   "pos": "",
   "meaning": "n. a. 异口同声"
  },
@@ -15943,7 +15943,7 @@
  },
  {
   "word": "put on",
-  "phonetic": "英[pʊt ɒn] 美[pʊt ɑːn]",
+  "phonetic": "pʊt ɒn pʊt ɑːn",
   "pos": "",
   "meaning": "n. a. 假话"
  },
@@ -15955,7 +15955,7 @@
  },
  {
   "word": "sound sleep",
-  "phonetic": "美[saʊnd sliːp]",
+  "phonetic": "saʊnd sliːp",
   "pos": "n",
   "meaning": "n. 熟睡"
  },
@@ -15973,7 +15973,7 @@
  },
  {
   "word": "send up",
-  "phonetic": "英[ˈsend ʌp] 美[ˈsend ʌp]",
+  "phonetic": "ˈsend ʌp",
   "pos": "",
   "meaning": "n. a. 弄上去"
  },
@@ -16009,7 +16009,7 @@
  },
  {
   "word": "point to",
-  "phonetic": "英[pɔɪnt tu] 美[pɔɪnt tu]",
+  "phonetic": "pɔɪnt tu",
   "pos": "",
   "meaning": "v. 指向；针对"
  },
@@ -16027,19 +16027,19 @@
  },
  {
   "word": "too much",
-  "phonetic": "美[tuː mʌtʃ]",
+  "phonetic": "tuː mʌtʃ",
   "pos": "",
   "meaning": "n. a. 太过份"
  },
  {
   "word": "speak to",
-  "phonetic": "美[spiːk tu]",
+  "phonetic": "spiːk tu",
   "pos": "",
   "meaning": "n. a. 向…说"
  },
  {
   "word": "move to",
-  "phonetic": "英[muːv tu] 美[muːv tu]",
+  "phonetic": "muːv tu",
   "pos": "",
   "meaning": "n. a. 搬到"
  },
@@ -16051,7 +16051,7 @@
  },
  {
   "word": "save up",
-  "phonetic": "美[seɪv ʌp]",
+  "phonetic": "seɪv ʌp",
   "pos": "",
   "meaning": "n. a. 同“save”"
  },
@@ -16063,7 +16063,7 @@
  },
  {
   "word": "pick out",
-  "phonetic": "美[pɪk aʊt]",
+  "phonetic": "pɪk aʊt",
   "pos": "",
   "meaning": "n. a. 挑选"
  },
@@ -16087,7 +16087,7 @@
  },
  {
   "word": "practice doing",
-  "phonetic": "美[ˈpræktɪs ˈduːɪŋ]",
+  "phonetic": "ˈpræktɪs ˈduːɪŋ",
   "pos": "",
   "meaning": "练习做某事；练习作某事；练习干某事"
  },
@@ -16117,13 +16117,13 @@
  },
  {
   "word": "side by side",
-  "phonetic": "美[saɪd baɪ saɪd]",
+  "phonetic": "saɪd baɪ saɪd",
   "pos": "",
   "meaning": "n. a. 并排着"
  },
  {
   "word": "reach out",
-  "phonetic": "美[riːtʃ aʊt]",
+  "phonetic": "riːtʃ aʊt",
   "pos": "",
   "meaning": "n. a. 伸(手)"
  },
@@ -16153,7 +16153,7 @@
  },
  {
   "word": "put into",
-  "phonetic": "美[pʊt ˈɪntə]",
+  "phonetic": "pʊt ˈɪntə",
   "pos": "",
   "meaning": "n. a. 插入"
  },
@@ -16201,19 +16201,19 @@
  },
  {
   "word": "tie up",
-  "phonetic": "英[ˈtaɪ ʌp] 美[ˈtaɪ ʌp]",
+  "phonetic": "ˈtaɪ ʌp",
   "pos": "",
   "meaning": "n. a. 绑"
  },
  {
   "word": "take up",
-  "phonetic": "英[ˈteɪk ʌp] 美[ˈteɪk ʌp]",
+  "phonetic": "ˈteɪk ʌp",
   "pos": "",
   "meaning": "n. a. 拿起"
  },
  {
   "word": "tell a lie",
-  "phonetic": "美[tel ə laɪ]",
+  "phonetic": "tel ə laɪ",
   "pos": "",
   "meaning": "v. 说谎"
  },
@@ -16243,7 +16243,7 @@
  },
  {
   "word": "one another",
-  "phonetic": "英[ˌwʌn əˈnʌðə(r)]",
+  "phonetic": "ˌwʌn əˈnʌðə(r)",
   "pos": "pron",
   "meaning": "pron. 互相"
  },
@@ -16261,7 +16261,7 @@
  },
  {
   "word": "tidy up",
-  "phonetic": "美[ˈtaɪdi ʌp]",
+  "phonetic": "ˈtaɪdi ʌp",
   "pos": "",
   "meaning": "v. 整理干净"
  },
@@ -16285,7 +16285,7 @@
  },
  {
   "word": "take action",
-  "phonetic": "美[teɪk ˈækʃn]",
+  "phonetic": "teɪk ˈækʃn",
   "pos": "",
   "meaning": "n. a. 动手"
  },
@@ -16303,7 +16303,7 @@
  },
  {
   "word": "some time",
-  "phonetic": "美[səm taɪm]",
+  "phonetic": "səm taɪm",
   "pos": "",
   "meaning": "n. a. 早晚"
  },
@@ -16315,7 +16315,7 @@
  },
  {
   "word": "stand up",
-  "phonetic": "英[ˈstænd ʌp] 美[ˈstænd ʌp]",
+  "phonetic": "ˈstænd ʌp",
   "pos": "",
   "meaning": "n. a. 站起来"
  },
@@ -16327,7 +16327,7 @@
  },
  {
   "word": "write down",
-  "phonetic": "英[ˈraɪt daʊn] 美[raɪt daʊn]",
+  "phonetic": "ˈraɪt daʊn raɪt daʊn",
   "pos": "",
   "meaning": "n. a. 记下来"
  },
@@ -16357,7 +16357,7 @@
  },
  {
   "word": "to tell the truth",
-  "phonetic": "美[tu tel ðə truːθ]",
+  "phonetic": "tu tel ðə truːθ",
   "pos": "",
   "meaning": "n. a. 实际是"
  },
@@ -16375,7 +16375,7 @@
  },
  {
   "word": "upside down",
-  "phonetic": "英[ˌʌpsaɪd ˈdaʊn] 美[ˌʌpsaɪd ˈdaʊn]",
+  "phonetic": "ˌʌpsaɪd ˈdaʊn",
   "pos": "adv",
   "meaning": "adv. 颠倒"
  },
@@ -16387,25 +16387,25 @@
  },
  {
   "word": "point out",
-  "phonetic": "美[pɔɪnt aʊt]",
+  "phonetic": "pɔɪnt aʊt",
   "pos": "",
   "meaning": "n. a. 指出"
  },
  {
   "word": "now and then",
-  "phonetic": "美[naʊ ənd ðen]",
+  "phonetic": "naʊ ənd ðen",
   "pos": "",
   "meaning": "偶尔；时而；不时"
  },
  {
   "word": "right now",
-  "phonetic": "美[raɪt naʊ]",
+  "phonetic": "raɪt naʊ",
   "pos": "",
   "meaning": "n. a. 目前"
  },
  {
   "word": "quite a few",
-  "phonetic": "英[kwaɪt ə fjuː] 美[kwaɪt ə fjuː]",
+  "phonetic": "kwaɪt ə fjuː",
   "pos": "",
   "meaning": "n. a. 很多"
  },
@@ -16459,7 +16459,7 @@
  },
  {
   "word": "neck and neck",
-  "phonetic": "美[nek ənd nek]",
+  "phonetic": "nek ənd nek",
   "pos": "",
   "meaning": "n. a. 齐头并进"
  },
@@ -16471,7 +16471,7 @@
  },
  {
   "word": "pay attention to",
-  "phonetic": "美[peɪ əˈtenʃn tu]",
+  "phonetic": "peɪ əˈtenʃn tu",
   "pos": "",
   "meaning": "n. a. 注意"
  },
@@ -16483,7 +16483,7 @@
  },
  {
   "word": "take off",
-  "phonetic": "英[ˈteɪk ɒf] 美[ˈteɪk ɔːf]",
+  "phonetic": "ˈteɪk ɒf ˈteɪk ɔːf",
   "pos": "",
   "meaning": "v. (飞机)起飞；出去；拿掉；移送"
  },
@@ -16501,7 +16501,7 @@
  },
  {
   "word": "take out",
-  "phonetic": "美[teɪk aʊt]",
+  "phonetic": "teɪk aʊt",
   "pos": "",
   "meaning": "n. a. 取出"
  },
@@ -16519,7 +16519,7 @@
  },
  {
   "word": "the same as",
-  "phonetic": "美[ðə seɪm æz]",
+  "phonetic": "ðə seɪm æz",
   "pos": "adj",
   "meaning": "adj. 与…同样"
  },
@@ -16555,13 +16555,13 @@
  },
  {
   "word": "thanks to",
-  "phonetic": "美[θæŋks tu]",
+  "phonetic": "θæŋks tu",
   "pos": "",
   "meaning": "v. 感谢；幸亏；多亏"
  },
  {
   "word": "stick to",
-  "phonetic": "美[stɪk tu]",
+  "phonetic": "stɪk tu",
   "pos": "",
   "meaning": "n. a. 忠于"
  },
@@ -16579,13 +16579,13 @@
  },
  {
   "word": "show off",
-  "phonetic": "英[ʃəʊ ɒf]",
+  "phonetic": "ʃəʊ ɒf",
   "pos": "",
   "meaning": "n. a. 卖弄"
  },
  {
   "word": "take a vacation",
-  "phonetic": "英[teɪk ə veɪˈkeɪʃn; teɪk ə vəˈkeɪʃn] 美[teɪk ə veɪˈkeɪʃn; teɪk ə vəˈkeɪʃn]",
+  "phonetic": "teɪk ə veɪˈkeɪʃn; teɪk ə vəˈkeɪʃn",
   "pos": "",
   "meaning": "去度假；休假；自己放假"
  },
@@ -16633,19 +16633,19 @@
  },
  {
   "word": "stay up",
-  "phonetic": "美[steɪ ʌp]",
+  "phonetic": "steɪ ʌp",
   "pos": "",
   "meaning": "n. a. 不去睡觉"
  },
  {
   "word": "play with",
-  "phonetic": "英[pleɪ wɪð] 美[pleɪ wɪð]",
+  "phonetic": "pleɪ wɪð",
   "pos": "",
   "meaning": "n. a. 玩弄(火等)"
  },
  {
   "word": "so as to",
-  "phonetic": "美[soʊ æz tu]",
+  "phonetic": "soʊ æz tu",
   "pos": "",
   "meaning": "n. a. (= in order to) 以便"
  },
@@ -16675,7 +16675,7 @@
  },
  {
   "word": "use up",
-  "phonetic": "美[juːz ʌp]",
+  "phonetic": "juːz ʌp",
   "pos": "",
   "meaning": "n. a. 用完"
  },
@@ -16711,7 +16711,7 @@
  },
  {
   "word": "sum up",
-  "phonetic": "英[sʌm ʌp] 美[sʌm ʌp]",
+  "phonetic": "sʌm ʌp",
   "pos": "",
   "meaning": "n. a. 〈口〉概括"
  },
@@ -16729,13 +16729,13 @@
  },
  {
   "word": "on board",
-  "phonetic": "英[ˌɒn ˈbɔːd]",
+  "phonetic": "ˌɒn ˈbɔːd",
   "pos": "",
   "meaning": "n. a. 在船上"
  },
  {
   "word": "result from",
-  "phonetic": "美[rɪˈzʌlt frəm]",
+  "phonetic": "rɪˈzʌlt frəm",
   "pos": "",
   "meaning": "v. 由于"
  },
@@ -16747,13 +16747,13 @@
  },
  {
   "word": "year by year",
-  "phonetic": "美[jɪr baɪ jɪr]",
+  "phonetic": "jɪr baɪ jɪr",
   "pos": "",
   "meaning": "n. a. 年年"
  },
  {
   "word": "year in and year out",
-  "phonetic": "美[jɪr ɪn ənd jɪr aʊt]",
+  "phonetic": "jɪr ɪn ənd jɪr aʊt",
   "pos": "",
   "meaning": "n. a. 年年"
  },
@@ -16777,7 +16777,7 @@
  },
  {
   "word": "pick up",
-  "phonetic": "英[pɪk ʌp] 美[pɪk ʌp]",
+  "phonetic": "pɪk ʌp",
   "pos": "",
   "meaning": "v. 拾起；探出；重新开始"
  },
@@ -16813,13 +16813,13 @@
  },
  {
   "word": "succeed in",
-  "phonetic": "美[səkˈsiːd ɪn]",
+  "phonetic": "səkˈsiːd ɪn",
   "pos": "",
   "meaning": "v. 成功于"
  },
  {
   "word": "walk down",
-  "phonetic": "美[wɔːk daʊn]",
+  "phonetic": "wɔːk daʊn",
   "pos": "",
   "meaning": "un. 散步消化食物"
  },
@@ -16837,7 +16837,7 @@
  },
  {
   "word": "take a deep breath",
-  "phonetic": "美[teɪk ə diːp breθ]",
+  "phonetic": "teɪk ə diːp breθ",
   "pos": "",
   "meaning": "n. a. 行深呼吸"
  },
@@ -16855,13 +16855,13 @@
  },
  {
   "word": "tell the truth",
-  "phonetic": "美[tel ðə truːθ]",
+  "phonetic": "tel ðə truːθ",
   "pos": "",
   "meaning": "n. a. 说实话"
  },
  {
   "word": "shout at",
-  "phonetic": "美[ʃaʊt æt]",
+  "phonetic": "ʃaʊt æt",
   "pos": "",
   "meaning": "对……大喊；对…大声叫嚷；冲嚷嚷"
  },
@@ -16915,7 +16915,7 @@
  },
  {
   "word": "think up",
-  "phonetic": "美[θɪŋk ʌp]",
+  "phonetic": "θɪŋk ʌp",
   "pos": "",
   "meaning": "n. a. 想出"
  }
