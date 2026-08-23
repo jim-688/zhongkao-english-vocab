@@ -3,7 +3,7 @@
 """zhongkao_vocab 发布内容综合校验：结构/质量/一致性/残留噪音。"""
 import json, re, random, os
 
-BASE = r"C:\Users\32295\Desktop\vocab_progress"
+BASE = os.environ.get("VOCAB_PROGRESS_DIR", os.path.dirname(os.path.abspath(__file__)))
 issues = []
 def chk(cond, msg):
     if not cond:
