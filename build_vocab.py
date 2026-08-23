@@ -7,11 +7,14 @@
 """
 import csv, json, random, re, os, sys
 
-WORDS_SRC = r"C:\Users\32295\Desktop\vocab_progress\words_20tian.json"
-SGUO4 = r"C:\Users\32295\Desktop\vocab_progress\sguo4.xlsx"
-FREQ = r"C:\Users\32295\Desktop\vocab_progress\freq_50k.txt"
-OUT_JSON = r"C:\Users\32295\Desktop\vocab_progress\zhongkao_vocab.json"
-OUT_XLSX = r"C:\Users\32295\Desktop\vocab_progress\zhongkao_vocab.xlsx"
+ROOT = os.path.dirname(os.path.abspath(__file__))
+DATA_DIR = os.environ.get("VOCAB_DATA_DIR", os.path.join(ROOT, "data"))
+OUTPUT_DIR = os.environ.get("VOCAB_OUTPUT_DIR", ROOT)
+WORDS_SRC = os.path.join(DATA_DIR, "words_20tian.json")
+SGUO4 = os.path.join(DATA_DIR, "sguo4.xlsx")
+FREQ = os.path.join(DATA_DIR, "freq_50k.txt")
+OUT_JSON = os.path.join(OUTPUT_DIR, "zhongkao_vocab.json")
+OUT_XLSX = os.path.join(OUTPUT_DIR, "zhongkao_vocab.xlsx")
 SEED = 20260814
 
 def load_wordlist():
@@ -92,6 +95,7 @@ def simplify_meaning(meaning, max_pos=3):
     return "；".join(result)
 
 def main():
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
     words = load_wordlist()
     print(f"词集: {len(words)} 词")
     sguo = load_sguo4(SGUO4)
