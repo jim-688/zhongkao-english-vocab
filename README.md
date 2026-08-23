@@ -1,46 +1,69 @@
 # 中考英语零基础核心词表（乱序版）
 
-零基础友好的中考英语核心词汇表：**乱序排列、高频在前**，含音标、词性、中文释义。
-JSON 和 Excel 双格式，可直接导入背词软件或自测脚本。
+零基础友好的中考英语核心词汇表：乱序排列、高频在前，含音标、词性和中文释义。仓库发布词库数据和构建脚本；学习进度与 SRS 由 [`wordvault`](https://github.com/jim-688/wordvault) 负责。
 
 ## 数据规模
-- **2820 词条**（1883 单词 + 937 常用短语），覆盖中考高频核心词汇
-- 字段：`word` 单词 | `phonetic` 音标 | `pos` 词性 | `meaning` 中文释义
-- 两个版本：
-  - `zhongkao_vocab.json`：完整释义（含全部义项）
-  - `zhongkao_vocab_simple.json`：零基础精简释义（每个词性保留第一个义项）
 
-## 特色
-- **乱序 + 高频在前**：词频排序后每 500 词段内乱序，高频词先背、段内不按字母序
-- **音标全覆盖**：纯单词音标覆盖 100%（英音+美音）
-- **零基础友好**：`meaning_simple` 只保留核心义项，不吓人
+- 2820 词条：1883 个单词和 937 个常用短语
+- `zhongkao_vocab.json`：完整释义
+- `zhongkao_vocab_simple.json`：每个词性保留第一个核心义项
+- `zhongkao_vocab.xlsx`：便于人工检查和导入
 
-## 数据来源
-- 词单：公开中考词表整理（含人工校对修正 12 处释义错误）
-- 音标：sguo4.xlsx（四级闪过电子书）+ 有道词典 + Free Dictionary API（Wiktionary，CC BY-SA）
-- 词频：freq_50k.txt
-- 释义为整理者原创整理，如有版权问题请联系删除
+字段包括 `word`、`phonetic`、`pos`、`meaning`、`meaning_simple`、`frq`。
 
-## 用法
+## 数据特点
+
+- 每 500 词段内使用固定种子乱序，高频词段优先
+- 纯单词音标覆盖以校验器输出为准
+- 简化释义面向基础薄弱学习者，不替代完整词典
+
+## 使用
+
 ```python
 import json
-words = json.load(open('zhongkao_vocab_simple.json', encoding='utf-8'))
+
+with open("zhongkao_vocab_simple.json", encoding="utf-8") as file:
+    words = json.load(file)
 print(words[0])
-# {'word': 'feel', 'phonetic': '英[fiːl] 美[fiːl]', 'pos': 'n vi vt', 'meaning': 'n. 感觉；vi. 觉得；vt. 感觉'}
 ```
 
-Excel 版可直接导入 Anki（自定义笔记模板）、欧路词典、墨墨背单词等。
+Excel 结果可按需要导入 Anki、欧路词典或其他支持自定义词表的工具。导入外部工具前请先备份自己的学习进度。
 
 ## 构建
+
+安装依赖：
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+构建脚本默认从仓库内的 `data/` 读取输入，并把结果写回仓库根目录：
+
 ```bash
 python build_vocab.py
+python verify_vocab.py
 ```
-依赖：openpyxl。数据源文件按脚本内路径准备。
 
-## Roadmap
-- [ ] 每词一个简单例句（零基础友好）
-- [ ] 单词发音音频
-- [ ] 按省份考纲差异拆分
+个人输入文件不在公开仓库时，可指定本地目录；输出目录也可以单独指定：
+
+```bash
+VOCAB_DATA_DIR=/path/to/private-data \
+VOCAB_OUTPUT_DIR=/path/to/output \
+python build_vocab.py
+```
+
+Windows CMD：
+
+```cmd
+set VOCAB_DATA_DIR=C:\path\to\private-data
+set VOCAB_OUTPUT_DIR=C:\path\to\output
+python build_vocab.py
+```
+
+输入文件名必须为 `words_20tian.json`、`sguo4.xlsx` 和 `freq_50k.txt`。缺少输入时构建应失败，而不是产生不完整发布文件。
+
+完整来源和许可边界见 [`SOURCES.md`](SOURCES.md)。
 
 ## License
-MIT（代码）。音标数据部分来源 Wiktionary（CC BY-SA 4.0）。
+
+代码按 MIT 发布。数据中的第三方内容仍受其原始许可约束；不能仅因为仓库有 MIT `LICENSE` 就把全部数据视为 MIT。
