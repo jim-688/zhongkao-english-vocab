@@ -65,8 +65,8 @@ for name, pat in noise_patterns.items():
     hits = [w["word"] for w in words if re.search(pat, w["meaning"])]
     if hits:
         print(f"  噪音[{name}]: {len(hits)}条 例: {hits[:5]}")
-        # 词形变化/网络语/品牌 视为问题，截断/HTML 也记录
-        if name in ("词形变化", "网络语", "品牌", "HTML残留"):
+        # These categories indicate data that should block publication.
+        if name in ("网络语(应修)", "品牌(应修)", "截断"):
             issues.append(f"残留噪音[{name}]: {hits[:8]}")
 
 # 9. 抽样释义质量（10 个词人工核对点）
